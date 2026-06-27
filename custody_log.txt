@@ -1,0 +1,3368 @@
+CHAIN OF CUSTODY LOG
+
+[2026-06-12 18:58:51.129772]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185850.png
+SHA256: e3b39870e7fde981ea6ab4f0763a16a6e4f26f99d3d71b807746b4d2bc24f954
+--------------------------------------------------
+
+[2026-06-12 18:58:51.636544]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185851.png
+SHA256: af245be8022e2024462b2de1bff42857323f3736e7294d00d0961933c9dbbd0e
+--------------------------------------------------
+
+[2026-06-12 18:58:52.089459]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185851.png
+SHA256: af245be8022e2024462b2de1bff42857323f3736e7294d00d0961933c9dbbd0e
+--------------------------------------------------
+
+[2026-06-12 18:58:52.373851]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185852.png
+SHA256: af245be8022e2024462b2de1bff42857323f3736e7294d00d0961933c9dbbd0e
+--------------------------------------------------
+
+[2026-06-12 18:58:52.749710]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185852.png
+SHA256: af245be8022e2024462b2de1bff42857323f3736e7294d00d0961933c9dbbd0e
+--------------------------------------------------
+
+[2026-06-12 18:58:53.153186]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185852.png
+SHA256: af245be8022e2024462b2de1bff42857323f3736e7294d00d0961933c9dbbd0e
+--------------------------------------------------
+
+[2026-06-12 18:58:53.359637]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185853.png
+SHA256: af245be8022e2024462b2de1bff42857323f3736e7294d00d0961933c9dbbd0e
+--------------------------------------------------
+
+[2026-06-12 18:58:53.551491]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185853.png
+SHA256: af245be8022e2024462b2de1bff42857323f3736e7294d00d0961933c9dbbd0e
+--------------------------------------------------
+
+[2026-06-12 18:58:53.757785]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185853.png
+SHA256: af245be8022e2024462b2de1bff42857323f3736e7294d00d0961933c9dbbd0e
+--------------------------------------------------
+
+[2026-06-12 18:58:53.965541]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185853.png
+SHA256: af245be8022e2024462b2de1bff42857323f3736e7294d00d0961933c9dbbd0e
+--------------------------------------------------
+
+[2026-06-12 18:58:54.251988]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185854.png
+SHA256: af245be8022e2024462b2de1bff42857323f3736e7294d00d0961933c9dbbd0e
+--------------------------------------------------
+
+[2026-06-12 18:58:54.657155]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185854.png
+SHA256: af245be8022e2024462b2de1bff42857323f3736e7294d00d0961933c9dbbd0e
+--------------------------------------------------
+
+[2026-06-12 18:58:54.912163]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185854.png
+SHA256: af245be8022e2024462b2de1bff42857323f3736e7294d00d0961933c9dbbd0e
+--------------------------------------------------
+
+[2026-06-12 18:58:55.177050]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185855.png
+SHA256: af245be8022e2024462b2de1bff42857323f3736e7294d00d0961933c9dbbd0e
+--------------------------------------------------
+
+[2026-06-12 18:58:55.410082]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185855.png
+SHA256: af245be8022e2024462b2de1bff42857323f3736e7294d00d0961933c9dbbd0e
+--------------------------------------------------
+
+[2026-06-12 18:58:55.646774]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185855.png
+SHA256: af245be8022e2024462b2de1bff42857323f3736e7294d00d0961933c9dbbd0e
+--------------------------------------------------
+
+[2026-06-12 18:58:55.998320]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185855.png
+SHA256: 5bf9f44aa93b336fa6636682ce07d1359df90dc609cb22f6a2baf0799c1d1f08
+--------------------------------------------------
+
+[2026-06-12 18:58:56.236348]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185856.png
+SHA256: 5bf9f44aa93b336fa6636682ce07d1359df90dc609cb22f6a2baf0799c1d1f08
+--------------------------------------------------
+
+[2026-06-12 18:58:56.540047]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185856.png
+SHA256: 5bf9f44aa93b336fa6636682ce07d1359df90dc609cb22f6a2baf0799c1d1f08
+--------------------------------------------------
+
+[2026-06-12 18:58:56.751306]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185856.png
+SHA256: 5bf9f44aa93b336fa6636682ce07d1359df90dc609cb22f6a2baf0799c1d1f08
+--------------------------------------------------
+
+[2026-06-12 18:58:56.983880]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185856.png
+SHA256: 5bf9f44aa93b336fa6636682ce07d1359df90dc609cb22f6a2baf0799c1d1f08
+--------------------------------------------------
+
+[2026-06-12 18:58:57.460879]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185857.png
+SHA256: 5bf9f44aa93b336fa6636682ce07d1359df90dc609cb22f6a2baf0799c1d1f08
+--------------------------------------------------
+
+[2026-06-12 18:58:57.936163]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185857.png
+SHA256: 5bf9f44aa93b336fa6636682ce07d1359df90dc609cb22f6a2baf0799c1d1f08
+--------------------------------------------------
+
+[2026-06-12 18:58:58.355254]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185858.png
+SHA256: 5bf9f44aa93b336fa6636682ce07d1359df90dc609cb22f6a2baf0799c1d1f08
+--------------------------------------------------
+
+[2026-06-12 18:58:58.777871]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185858.png
+SHA256: 5bf9f44aa93b336fa6636682ce07d1359df90dc609cb22f6a2baf0799c1d1f08
+--------------------------------------------------
+
+[2026-06-12 18:58:59.276532]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185858.png
+SHA256: 5bf9f44aa93b336fa6636682ce07d1359df90dc609cb22f6a2baf0799c1d1f08
+--------------------------------------------------
+
+[2026-06-12 18:58:59.748177]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185859.png
+SHA256: 5bf9f44aa93b336fa6636682ce07d1359df90dc609cb22f6a2baf0799c1d1f08
+--------------------------------------------------
+
+[2026-06-12 18:59:00.238716]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185859.png
+SHA256: 5bf9f44aa93b336fa6636682ce07d1359df90dc609cb22f6a2baf0799c1d1f08
+--------------------------------------------------
+
+[2026-06-12 18:59:00.674360]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185900.png
+SHA256: 5bf9f44aa93b336fa6636682ce07d1359df90dc609cb22f6a2baf0799c1d1f08
+--------------------------------------------------
+
+[2026-06-12 18:59:00.865865]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185900.png
+SHA256: 5bf9f44aa93b336fa6636682ce07d1359df90dc609cb22f6a2baf0799c1d1f08
+--------------------------------------------------
+
+[2026-06-12 18:59:01.204284]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185900.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:01.780018]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185901.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:02.085596]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185901.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:02.640059]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185902.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:02.988938]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185902.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:03.414293]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185903.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:03.753095]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185903.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:04.160040]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185903.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:04.461132]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185904.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:04.772315]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185904.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:05.185160]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185904.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:05.472392]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185905.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:05.709419]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185905.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:06.015971]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185905.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:06.248566]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185906.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:06.712777]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185906.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:07.038888]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185906.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:07.549324]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185907.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:07.965914]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185907.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:08.369250]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185908.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:08.607844]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185908.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:08.865984]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185908.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:09.106018]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185908.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:09.353716]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185909.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:09.608990]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185909.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:09.860185]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185909.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:10.107424]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185909.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:10.354113]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185910.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:10.600195]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185910.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:10.884135]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185910.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:11.145851]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185910.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:11.418898]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185911.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:11.723417]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185911.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:11.938331]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185911.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:12.220078]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185911.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:12.477937]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185912.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:12.744552]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185912.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:13.070076]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185912.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:13.285428]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185913.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:13.499110]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185913.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:13.693121]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185913.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:13.907729]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185913.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:14.295030]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185913.png
+SHA256: 3a28e62c7ff72c5d69e4535c28b391372fdf702ec2e064058454987998ab715f
+--------------------------------------------------
+
+[2026-06-12 18:59:14.483813]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185914.png
+SHA256: de1e24476e1fd83443aead58ec327a78d800fe04ea66a992513a74ab3725b93b
+--------------------------------------------------
+
+[2026-06-12 18:59:14.667118]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185914.png
+SHA256: de1e24476e1fd83443aead58ec327a78d800fe04ea66a992513a74ab3725b93b
+--------------------------------------------------
+
+[2026-06-12 18:59:14.951936]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185914.png
+SHA256: de1e24476e1fd83443aead58ec327a78d800fe04ea66a992513a74ab3725b93b
+--------------------------------------------------
+
+[2026-06-12 18:59:15.472557]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185915.png
+SHA256: de1e24476e1fd83443aead58ec327a78d800fe04ea66a992513a74ab3725b93b
+--------------------------------------------------
+
+[2026-06-12 18:59:16.025534]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185915.png
+SHA256: de1e24476e1fd83443aead58ec327a78d800fe04ea66a992513a74ab3725b93b
+--------------------------------------------------
+
+[2026-06-12 18:59:16.289274]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185916.png
+SHA256: 2b39cae396ec9f0f6c802ad54f4e62835a026ee75f48752c4e2c7d5e4a13d224
+--------------------------------------------------
+
+[2026-06-12 18:59:16.762066]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185916.png
+SHA256: adc96013be184478d2a2e228f623646b131b1cdef6e1c86c911e17e211b8a3f2
+--------------------------------------------------
+
+[2026-06-12 18:59:16.978347]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185916.png
+SHA256: de1e24476e1fd83443aead58ec327a78d800fe04ea66a992513a74ab3725b93b
+--------------------------------------------------
+
+[2026-06-12 18:59:17.441942]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185917.png
+SHA256: de1e24476e1fd83443aead58ec327a78d800fe04ea66a992513a74ab3725b93b
+--------------------------------------------------
+
+[2026-06-12 18:59:17.897672]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185917.png
+SHA256: 1a6c9ea5b355b92a93f95c8cd6a3a30b7b2ccde3aee2ba572d11616c034e7b51
+--------------------------------------------------
+
+[2026-06-12 18:59:18.131655]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185917.png
+SHA256: 41e1cad7e2373fe61431f1b8a4f4ac3a9c09def04ff25b954e01b8894faad2d0
+--------------------------------------------------
+
+[2026-06-12 18:59:18.664098]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185918.png
+SHA256: c07d76f0a0c11497c1c0383856ac62c7c98c50fe14a2b53360ce97c6b92914ed
+--------------------------------------------------
+
+[2026-06-12 18:59:18.908572]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185918.png
+SHA256: c07d76f0a0c11497c1c0383856ac62c7c98c50fe14a2b53360ce97c6b92914ed
+--------------------------------------------------
+
+[2026-06-12 18:59:19.427691]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185918.png
+SHA256: c07d76f0a0c11497c1c0383856ac62c7c98c50fe14a2b53360ce97c6b92914ed
+--------------------------------------------------
+
+[2026-06-12 18:59:19.941297]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185919.png
+SHA256: 66da655ab771bcdae89753244067b01d9543993970e339980b2599fd4c264d09
+--------------------------------------------------
+
+[2026-06-12 18:59:20.374120]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185920.png
+SHA256: 5eb5981a36ae22f82b67eb25b2c63ce17677f44670b21d484ea857d0d1f5bcf6
+--------------------------------------------------
+
+[2026-06-12 18:59:20.919078]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185920.png
+SHA256: a3cfc765a9e672a5c4474bc09aca697f8618d8bb270b1f639ce37acb251c8960
+--------------------------------------------------
+
+[2026-06-12 18:59:21.608639]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185921.png
+SHA256: 5eb5981a36ae22f82b67eb25b2c63ce17677f44670b21d484ea857d0d1f5bcf6
+--------------------------------------------------
+
+[2026-06-12 18:59:21.958665]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185921.png
+SHA256: 5eb5981a36ae22f82b67eb25b2c63ce17677f44670b21d484ea857d0d1f5bcf6
+--------------------------------------------------
+
+[2026-06-12 18:59:22.256868]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185922.png
+SHA256: 5eb5981a36ae22f82b67eb25b2c63ce17677f44670b21d484ea857d0d1f5bcf6
+--------------------------------------------------
+
+[2026-06-12 18:59:22.507713]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185922.png
+SHA256: 5eb5981a36ae22f82b67eb25b2c63ce17677f44670b21d484ea857d0d1f5bcf6
+--------------------------------------------------
+
+[2026-06-12 18:59:22.887846]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185922.png
+SHA256: 5eb5981a36ae22f82b67eb25b2c63ce17677f44670b21d484ea857d0d1f5bcf6
+--------------------------------------------------
+
+[2026-06-12 18:59:23.182463]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185922.png
+SHA256: 5eb5981a36ae22f82b67eb25b2c63ce17677f44670b21d484ea857d0d1f5bcf6
+--------------------------------------------------
+
+[2026-06-12 18:59:23.611296]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185923.png
+SHA256: 5eb5981a36ae22f82b67eb25b2c63ce17677f44670b21d484ea857d0d1f5bcf6
+--------------------------------------------------
+
+[2026-06-12 18:59:24.025689]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185923.png
+SHA256: 5eb5981a36ae22f82b67eb25b2c63ce17677f44670b21d484ea857d0d1f5bcf6
+--------------------------------------------------
+
+[2026-06-12 18:59:24.289810]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185924.png
+SHA256: 5eb5981a36ae22f82b67eb25b2c63ce17677f44670b21d484ea857d0d1f5bcf6
+--------------------------------------------------
+
+[2026-06-12 18:59:24.819662]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185924.png
+SHA256: 5eb5981a36ae22f82b67eb25b2c63ce17677f44670b21d484ea857d0d1f5bcf6
+--------------------------------------------------
+
+[2026-06-12 18:59:25.372189]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185924.png
+SHA256: 0a0a1ef3df40ab1dd3f97c9f07cc009aef4739e21f4347b9dd2ae8f74ffb5fa0
+--------------------------------------------------
+
+[2026-06-12 18:59:25.928923]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185925.png
+SHA256: dbd90e234093ae52b0be37ec7bf9a4a11529f2cef7dedbce5607c1b1997613da
+--------------------------------------------------
+
+[2026-06-12 18:59:26.252929]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185926.png
+SHA256: ad4f0996db10a9adeff7c37449aeb6306437a68c9dcd2d2456b6ddea27eba8fb
+--------------------------------------------------
+
+[2026-06-12 18:59:26.637960]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185926.png
+SHA256: 02f163e01202ef89da9f9e2d434a83e94dfc35e71877f4cada15a3753f3d9154
+--------------------------------------------------
+
+[2026-06-12 18:59:26.935332]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185926.png
+SHA256: 02f163e01202ef89da9f9e2d434a83e94dfc35e71877f4cada15a3753f3d9154
+--------------------------------------------------
+
+[2026-06-12 18:59:27.481055]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185927.png
+SHA256: 7f9fbbcd91780ee38f46ae1ccb6a73acc2902631ca52a4c27cf3366bfe5372a5
+--------------------------------------------------
+
+[2026-06-12 18:59:27.762944]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185927.png
+SHA256: d2f4d8203b887db971cee372b624eb4a1b6001537d628a72da0329a4f03920f4
+--------------------------------------------------
+
+[2026-06-12 18:59:28.247802]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185927.png
+SHA256: 238e36e566f95d41bc9bb7f16660408d42cf33328d93f17a515492025b3ca2ac
+--------------------------------------------------
+
+[2026-06-12 18:59:28.712206]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185928.png
+SHA256: 9c712b23a0042cd6e51001e6f6be1a14fd1d080d99abb5952a0e3f1739078c40
+--------------------------------------------------
+
+[2026-06-12 18:59:29.006545]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185928.png
+SHA256: 8fa457ed4975af8c0e2b404e654f68b02085a33f68c0f2cc372dfde60b324465
+--------------------------------------------------
+
+[2026-06-12 18:59:29.420621]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185929.png
+SHA256: 8fa457ed4975af8c0e2b404e654f68b02085a33f68c0f2cc372dfde60b324465
+--------------------------------------------------
+
+[2026-06-12 18:59:29.855613]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185929.png
+SHA256: 8fa457ed4975af8c0e2b404e654f68b02085a33f68c0f2cc372dfde60b324465
+--------------------------------------------------
+
+[2026-06-12 18:59:30.283964]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185929.png
+SHA256: 8fa457ed4975af8c0e2b404e654f68b02085a33f68c0f2cc372dfde60b324465
+--------------------------------------------------
+
+[2026-06-12 18:59:30.590369]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185930.png
+SHA256: 8fa457ed4975af8c0e2b404e654f68b02085a33f68c0f2cc372dfde60b324465
+--------------------------------------------------
+
+[2026-06-12 18:59:31.013788]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185930.png
+SHA256: 8fa457ed4975af8c0e2b404e654f68b02085a33f68c0f2cc372dfde60b324465
+--------------------------------------------------
+
+[2026-06-12 18:59:31.524617]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185931.png
+SHA256: 8fa457ed4975af8c0e2b404e654f68b02085a33f68c0f2cc372dfde60b324465
+--------------------------------------------------
+
+[2026-06-12 18:59:31.996488]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185931.png
+SHA256: 8fa457ed4975af8c0e2b404e654f68b02085a33f68c0f2cc372dfde60b324465
+--------------------------------------------------
+
+[2026-06-12 18:59:32.520411]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185932.png
+SHA256: df60b85cfdebacf1477e52cf22b487ae93c9a48eb1ce414c04c49996619ce318
+--------------------------------------------------
+
+[2026-06-12 18:59:32.993840]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185932.png
+SHA256: 9b0f9d0c0a99426b04a0e964bd6497bfea621ce773afb65029dd1492be891ae4
+--------------------------------------------------
+
+[2026-06-12 18:59:33.285297]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185933.png
+SHA256: 3761b24c4d0e6bf7a75a1738c34122cdeda569f96bda24ba775da3581d851b38
+--------------------------------------------------
+
+[2026-06-12 18:59:33.532823]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185933.png
+SHA256: 6077bb06bf986818f6336538721e6f99d3db2720806ace13949a71e38afe296f
+--------------------------------------------------
+
+[2026-06-12 18:59:33.892076]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185933.png
+SHA256: 45eaaf5940cfb8c6ed81baba92d03f8096a0b096e49cfd98ae69fa288efc624b
+--------------------------------------------------
+
+[2026-06-12 18:59:34.212639]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185933.png
+SHA256: 333621b2dbed3dcd11ad38656b47ffe42c54362e2a13240c6fbde594e0c51fa9
+--------------------------------------------------
+
+[2026-06-12 18:59:34.485509]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185934.png
+SHA256: 10aee31706413b66a42f78ebd5b594d0f8cfc208ab6d5cbfb29a2de2ea858155
+--------------------------------------------------
+
+[2026-06-12 18:59:34.754656]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185934.png
+SHA256: 10aee31706413b66a42f78ebd5b594d0f8cfc208ab6d5cbfb29a2de2ea858155
+--------------------------------------------------
+
+[2026-06-12 18:59:35.123357]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185934.png
+SHA256: 10aee31706413b66a42f78ebd5b594d0f8cfc208ab6d5cbfb29a2de2ea858155
+--------------------------------------------------
+
+[2026-06-12 18:59:35.389609]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185935.png
+SHA256: 10aee31706413b66a42f78ebd5b594d0f8cfc208ab6d5cbfb29a2de2ea858155
+--------------------------------------------------
+
+[2026-06-12 18:59:35.695109]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185935.png
+SHA256: 10aee31706413b66a42f78ebd5b594d0f8cfc208ab6d5cbfb29a2de2ea858155
+--------------------------------------------------
+
+[2026-06-12 18:59:36.051829]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185935.png
+SHA256: 10aee31706413b66a42f78ebd5b594d0f8cfc208ab6d5cbfb29a2de2ea858155
+--------------------------------------------------
+
+[2026-06-12 18:59:36.304072]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185936.png
+SHA256: 10aee31706413b66a42f78ebd5b594d0f8cfc208ab6d5cbfb29a2de2ea858155
+--------------------------------------------------
+
+[2026-06-12 18:59:36.685077]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185936.png
+SHA256: 10aee31706413b66a42f78ebd5b594d0f8cfc208ab6d5cbfb29a2de2ea858155
+--------------------------------------------------
+
+[2026-06-12 18:59:36.950154]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185936.png
+SHA256: 10aee31706413b66a42f78ebd5b594d0f8cfc208ab6d5cbfb29a2de2ea858155
+--------------------------------------------------
+
+[2026-06-12 18:59:37.269291]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185937.png
+SHA256: 10aee31706413b66a42f78ebd5b594d0f8cfc208ab6d5cbfb29a2de2ea858155
+--------------------------------------------------
+
+[2026-06-12 18:59:37.748539]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185937.png
+SHA256: 10aee31706413b66a42f78ebd5b594d0f8cfc208ab6d5cbfb29a2de2ea858155
+--------------------------------------------------
+
+[2026-06-12 18:59:38.049905]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185937.png
+SHA256: 6cf59860be1d9d29bd3dca4d06ec9f89925a22a7700a879260f2abe4e528287c
+--------------------------------------------------
+
+[2026-06-12 18:59:38.336359]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185938.png
+SHA256: b67a26fce3021cafc8cda95bc08c3d02ad93b8be0bcd2f8ecd01a84cc20572db
+--------------------------------------------------
+
+[2026-06-12 18:59:38.636179]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185938.png
+SHA256: 54a1021d877d69eb8fcc7221e5a983183a3502ea7756f9e5cddb8ae182e7cd7e
+--------------------------------------------------
+
+[2026-06-12 18:59:38.910848]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185938.png
+SHA256: 543d5f94c0cc6bdc9dee1569f4f4f8bd1dce7540dee78f10684730efeef733bf
+--------------------------------------------------
+
+[2026-06-12 18:59:39.214100]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185938.png
+SHA256: 49a31c0b81281082612d97814ef86eb7f901cd19ea4a3a4f15da4ebd42385ca7
+--------------------------------------------------
+
+[2026-06-12 18:59:39.621163]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185939.png
+SHA256: ced710b4fac7a7eca7123404d5b60d28c456c267b6af2f8daf6804f49a08dfd5
+--------------------------------------------------
+
+[2026-06-12 18:59:40.120876]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185939.png
+SHA256: ced710b4fac7a7eca7123404d5b60d28c456c267b6af2f8daf6804f49a08dfd5
+--------------------------------------------------
+
+[2026-06-12 18:59:40.568051]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185940.png
+SHA256: 1ce85a2ab4a393cc9e15926b59c4b0e25c37287edff3c2d91a21e6fc76212eb3
+--------------------------------------------------
+
+[2026-06-12 18:59:40.847850]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185940.png
+SHA256: 1ce85a2ab4a393cc9e15926b59c4b0e25c37287edff3c2d91a21e6fc76212eb3
+--------------------------------------------------
+
+[2026-06-12 18:59:41.239731]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185940.png
+SHA256: 1ce85a2ab4a393cc9e15926b59c4b0e25c37287edff3c2d91a21e6fc76212eb3
+--------------------------------------------------
+
+[2026-06-12 18:59:41.680693]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185941.png
+SHA256: 1ce85a2ab4a393cc9e15926b59c4b0e25c37287edff3c2d91a21e6fc76212eb3
+--------------------------------------------------
+
+[2026-06-12 18:59:42.039274]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185941.png
+SHA256: 1ce85a2ab4a393cc9e15926b59c4b0e25c37287edff3c2d91a21e6fc76212eb3
+--------------------------------------------------
+
+[2026-06-12 18:59:42.410211]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185942.png
+SHA256: 3ae1aa0c623b91e0dec4e4aabe278dfd887e080eddaf81c984397d1241e5050c
+--------------------------------------------------
+
+[2026-06-12 18:59:42.711544]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185942.png
+SHA256: 3ae1aa0c623b91e0dec4e4aabe278dfd887e080eddaf81c984397d1241e5050c
+--------------------------------------------------
+
+[2026-06-12 18:59:42.995537]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185942.png
+SHA256: 3ae1aa0c623b91e0dec4e4aabe278dfd887e080eddaf81c984397d1241e5050c
+--------------------------------------------------
+
+[2026-06-12 18:59:43.503725]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185943.png
+SHA256: 3c19d0fe2caa4f52babee742517d7262dfa3d3715cb303f5258accdae7f8b49b
+--------------------------------------------------
+
+[2026-06-12 18:59:43.922656]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185943.png
+SHA256: e0b5ac05992c5a3c152f3f1bb7cbe232633a5c9ef5282827eb6008cef12abf71
+--------------------------------------------------
+
+[2026-06-12 18:59:44.372086]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185944.png
+SHA256: 5999b81be21ba4f5ad5d50f47e4866b58c6aa0b2548923b0b3f066107582c1ec
+--------------------------------------------------
+
+[2026-06-12 18:59:44.960364]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185944.png
+SHA256: 5999b81be21ba4f5ad5d50f47e4866b58c6aa0b2548923b0b3f066107582c1ec
+--------------------------------------------------
+
+[2026-06-12 18:59:45.236241]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185945.png
+SHA256: 5999b81be21ba4f5ad5d50f47e4866b58c6aa0b2548923b0b3f066107582c1ec
+--------------------------------------------------
+
+[2026-06-12 18:59:45.673222]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185945.png
+SHA256: 94fe38318bfb6fbc603e7fa9fcb1a1601a8f7e77ff14bc34a7ab15a8d390c8b8
+--------------------------------------------------
+
+[2026-06-12 18:59:46.002340]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185945.png
+SHA256: 8621ca9dba33ec09db12df62919093f7c78361bda9b829bd5ef7d69869080f3b
+--------------------------------------------------
+
+[2026-06-12 18:59:46.474427]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185946.png
+SHA256: 8621ca9dba33ec09db12df62919093f7c78361bda9b829bd5ef7d69869080f3b
+--------------------------------------------------
+
+[2026-06-12 18:59:47.190267]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185946.png
+SHA256: 97f9e3b25e0ad7aa1fcd1727515e3c005b1ab55f9b50e5bee7be6479e3fdc66d
+--------------------------------------------------
+
+[2026-06-12 18:59:47.745632]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185947.png
+SHA256: 97f9e3b25e0ad7aa1fcd1727515e3c005b1ab55f9b50e5bee7be6479e3fdc66d
+--------------------------------------------------
+
+[2026-06-12 18:59:48.440936]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185947.png
+SHA256: 8621ca9dba33ec09db12df62919093f7c78361bda9b829bd5ef7d69869080f3b
+--------------------------------------------------
+
+[2026-06-12 18:59:48.917945]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185948.png
+SHA256: 97f9e3b25e0ad7aa1fcd1727515e3c005b1ab55f9b50e5bee7be6479e3fdc66d
+--------------------------------------------------
+
+[2026-06-12 18:59:49.356308]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185948.png
+SHA256: 8621ca9dba33ec09db12df62919093f7c78361bda9b829bd5ef7d69869080f3b
+--------------------------------------------------
+
+[2026-06-12 18:59:50.006215]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185949.png
+SHA256: 97f9e3b25e0ad7aa1fcd1727515e3c005b1ab55f9b50e5bee7be6479e3fdc66d
+--------------------------------------------------
+
+[2026-06-12 18:59:50.522399]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185950.png
+SHA256: ec66f498f39fa481912d678426da089ead94a0c3b1d43475a560b53da0565726
+--------------------------------------------------
+
+[2026-06-12 18:59:51.021902]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185950.png
+SHA256: 14b0d144f524f1a756d632516207e709858c897de2fa35963b5be7a6d2d42a67
+--------------------------------------------------
+
+[2026-06-12 18:59:51.556068]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185951.png
+SHA256: 701c9516236703f450bb2c8434417e7367d3474cdfdb03bae38a4ef686fc3476
+--------------------------------------------------
+
+[2026-06-12 18:59:51.914927]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185951.png
+SHA256: c40c99fa8ca0ed10a75af8d501d5a9ff563eadce510b9f9ecdde67df4da05e5f
+--------------------------------------------------
+
+[2026-06-12 18:59:52.383629]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185952.png
+SHA256: 8f794829ac850adaa69a053a5e5958eaf02eb448e568eba88bb4ea0c1d133b40
+--------------------------------------------------
+
+[2026-06-12 18:59:52.882790]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185952.png
+SHA256: 920a43f10777dfd30e5a7090ec155cf27fbf9cd86188c84102f48a75de84b9e2
+--------------------------------------------------
+
+[2026-06-12 18:59:53.365371]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185952.png
+SHA256: 012c0bd46be91f7e783c66bb6e1c8ff98f728d7f6c841bf0a80c1d388b82bcc1
+--------------------------------------------------
+
+[2026-06-12 18:59:53.812972]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185953.png
+SHA256: 353c53ee55a67bf98eec9e6ba385b57bd94a8455375697f038e3990fe69109f2
+--------------------------------------------------
+
+[2026-06-12 18:59:54.423188]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185953.png
+SHA256: 012c0bd46be91f7e783c66bb6e1c8ff98f728d7f6c841bf0a80c1d388b82bcc1
+--------------------------------------------------
+
+[2026-06-12 18:59:54.995025]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185954.png
+SHA256: 353c53ee55a67bf98eec9e6ba385b57bd94a8455375697f038e3990fe69109f2
+--------------------------------------------------
+
+[2026-06-12 18:59:55.528390]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185955.png
+SHA256: 012c0bd46be91f7e783c66bb6e1c8ff98f728d7f6c841bf0a80c1d388b82bcc1
+--------------------------------------------------
+
+[2026-06-12 18:59:56.040443]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185955.png
+SHA256: 353c53ee55a67bf98eec9e6ba385b57bd94a8455375697f038e3990fe69109f2
+--------------------------------------------------
+
+[2026-06-12 18:59:56.477854]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185956.png
+SHA256: 012c0bd46be91f7e783c66bb6e1c8ff98f728d7f6c841bf0a80c1d388b82bcc1
+--------------------------------------------------
+
+[2026-06-12 18:59:56.853248]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185956.png
+SHA256: 353c53ee55a67bf98eec9e6ba385b57bd94a8455375697f038e3990fe69109f2
+--------------------------------------------------
+
+[2026-06-12 18:59:57.453434]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185957.png
+SHA256: 012c0bd46be91f7e783c66bb6e1c8ff98f728d7f6c841bf0a80c1d388b82bcc1
+--------------------------------------------------
+
+[2026-06-12 18:59:57.958927]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185957.png
+SHA256: 353c53ee55a67bf98eec9e6ba385b57bd94a8455375697f038e3990fe69109f2
+--------------------------------------------------
+
+[2026-06-12 18:59:58.403528]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185958.png
+SHA256: 012c0bd46be91f7e783c66bb6e1c8ff98f728d7f6c841bf0a80c1d388b82bcc1
+--------------------------------------------------
+
+[2026-06-12 18:59:58.746225]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185958.png
+SHA256: 353c53ee55a67bf98eec9e6ba385b57bd94a8455375697f038e3990fe69109f2
+--------------------------------------------------
+
+[2026-06-12 18:59:59.097583]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185958.png
+SHA256: 353c53ee55a67bf98eec9e6ba385b57bd94a8455375697f038e3990fe69109f2
+--------------------------------------------------
+
+[2026-06-12 18:59:59.374320]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185959.png
+SHA256: 012c0bd46be91f7e783c66bb6e1c8ff98f728d7f6c841bf0a80c1d388b82bcc1
+--------------------------------------------------
+
+[2026-06-12 18:59:59.749987]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185959.png
+SHA256: 012c0bd46be91f7e783c66bb6e1c8ff98f728d7f6c841bf0a80c1d388b82bcc1
+--------------------------------------------------
+
+[2026-06-12 19:00:00.024211]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_185959.png
+SHA256: 353c53ee55a67bf98eec9e6ba385b57bd94a8455375697f038e3990fe69109f2
+--------------------------------------------------
+
+[2026-06-12 19:00:00.413256]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190000.png
+SHA256: 012c0bd46be91f7e783c66bb6e1c8ff98f728d7f6c841bf0a80c1d388b82bcc1
+--------------------------------------------------
+
+[2026-06-12 19:00:00.679383]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190000.png
+SHA256: 353c53ee55a67bf98eec9e6ba385b57bd94a8455375697f038e3990fe69109f2
+--------------------------------------------------
+
+[2026-06-12 19:00:00.989234]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190000.png
+SHA256: 353c53ee55a67bf98eec9e6ba385b57bd94a8455375697f038e3990fe69109f2
+--------------------------------------------------
+
+[2026-06-12 19:00:01.505537]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190001.png
+SHA256: 15b255f2bcb115836fe65f28bcf084ab552265805a4d799dd417d267469853a9
+--------------------------------------------------
+
+[2026-06-12 19:00:01.903984]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190001.png
+SHA256: 19c5c1ded60daa3e0775207bf8fa6d624600206cb36f34708b1f07d2fc3999a3
+--------------------------------------------------
+
+[2026-06-12 19:00:02.289635]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190001.png
+SHA256: 19c5c1ded60daa3e0775207bf8fa6d624600206cb36f34708b1f07d2fc3999a3
+--------------------------------------------------
+
+[2026-06-12 19:00:02.605684]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190002.png
+SHA256: 15b255f2bcb115836fe65f28bcf084ab552265805a4d799dd417d267469853a9
+--------------------------------------------------
+
+[2026-06-12 19:00:03.093770]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190002.png
+SHA256: 19c5c1ded60daa3e0775207bf8fa6d624600206cb36f34708b1f07d2fc3999a3
+--------------------------------------------------
+
+[2026-06-12 19:00:03.503665]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190003.png
+SHA256: 15b255f2bcb115836fe65f28bcf084ab552265805a4d799dd417d267469853a9
+--------------------------------------------------
+
+[2026-06-12 19:00:04.048740]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190003.png
+SHA256: 15b255f2bcb115836fe65f28bcf084ab552265805a4d799dd417d267469853a9
+--------------------------------------------------
+
+[2026-06-12 19:00:04.417247]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190004.png
+SHA256: 19c5c1ded60daa3e0775207bf8fa6d624600206cb36f34708b1f07d2fc3999a3
+--------------------------------------------------
+
+[2026-06-12 19:00:04.828533]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190004.png
+SHA256: 15b255f2bcb115836fe65f28bcf084ab552265805a4d799dd417d267469853a9
+--------------------------------------------------
+
+[2026-06-12 19:00:05.389710]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190004.png
+SHA256: 19c5c1ded60daa3e0775207bf8fa6d624600206cb36f34708b1f07d2fc3999a3
+--------------------------------------------------
+
+[2026-06-12 19:00:05.836104]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190005.png
+SHA256: e7f95857c9151ff73e56a54c216bc4d824e41c309380028337100fd379f93afe
+--------------------------------------------------
+
+[2026-06-12 19:00:06.180988]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190005.png
+SHA256: a8a609f819f5e5ff1a156b647d6516abef83ec9475227fbd560f32b19a188ea1
+--------------------------------------------------
+
+[2026-06-12 19:00:06.630199]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190006.png
+SHA256: 1e3a9814aafa535f539a010d3fe68e6a1c2135a847315173cb001d6f46a1f79b
+--------------------------------------------------
+
+[2026-06-12 19:00:06.936189]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190006.png
+SHA256: 8a2db899e7768b6461d008f7f536186a0c3e92d8c08b91a83c254c3e91837b13
+--------------------------------------------------
+
+[2026-06-12 19:00:07.256474]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190006.png
+SHA256: ca287aaaea96f81d93384515f40a50dffc00eeeb399a947de9dae9737ad6ba17
+--------------------------------------------------
+
+[2026-06-12 19:00:07.725122]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190007.png
+SHA256: 8a2db899e7768b6461d008f7f536186a0c3e92d8c08b91a83c254c3e91837b13
+--------------------------------------------------
+
+[2026-06-12 19:00:08.163338]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190007.png
+SHA256: a82e9c84cc1bcb0c13129a20863ab3be3d754c767eabe225085b22f4a4542003
+--------------------------------------------------
+
+[2026-06-12 19:00:08.557720]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190008.png
+SHA256: ad6c3fdce145e9035490f8cfa645956ed556597828a4230996fe0501a1bdec37
+--------------------------------------------------
+
+[2026-06-12 19:00:08.920650]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190008.png
+SHA256: 3cc8c459bdba47759cc08d28317aed88064ee493fe06fe96b940dbe31e15bba8
+--------------------------------------------------
+
+[2026-06-12 19:00:09.253484]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190009.png
+SHA256: 9aa14316ef758dcfee0d47ab2ed5494d29b5f2709663ba3a3b580d33d5dbdab5
+--------------------------------------------------
+
+[2026-06-12 19:00:09.552659]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190009.png
+SHA256: 9aa14316ef758dcfee0d47ab2ed5494d29b5f2709663ba3a3b580d33d5dbdab5
+--------------------------------------------------
+
+[2026-06-12 19:00:09.965807]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190009.png
+SHA256: 52817eaa5e9a125fe749191db36bdc10c11c52cd0e8e5039701c03a8ff76873b
+--------------------------------------------------
+
+[2026-06-12 19:00:10.241334]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190010.png
+SHA256: 52817eaa5e9a125fe749191db36bdc10c11c52cd0e8e5039701c03a8ff76873b
+--------------------------------------------------
+
+[2026-06-12 19:00:10.607371]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190010.png
+SHA256: 9aa14316ef758dcfee0d47ab2ed5494d29b5f2709663ba3a3b580d33d5dbdab5
+--------------------------------------------------
+
+[2026-06-12 19:00:10.943845]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190010.png
+SHA256: 52817eaa5e9a125fe749191db36bdc10c11c52cd0e8e5039701c03a8ff76873b
+--------------------------------------------------
+
+[2026-06-12 19:00:11.376611]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190011.png
+SHA256: 52817eaa5e9a125fe749191db36bdc10c11c52cd0e8e5039701c03a8ff76873b
+--------------------------------------------------
+
+[2026-06-12 19:00:11.854865]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190011.png
+SHA256: 9aa14316ef758dcfee0d47ab2ed5494d29b5f2709663ba3a3b580d33d5dbdab5
+--------------------------------------------------
+
+[2026-06-12 19:00:12.223042]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190011.png
+SHA256: 731f9aab4922abb87f6ffb9a94e76b51506d506564277543b3549c353af22c9d
+--------------------------------------------------
+
+[2026-06-12 19:00:12.540905]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190012.png
+SHA256: 33d7a4a5414626b163695a03de6cb883eeeb5772170fb132c44058211df9b1b9
+--------------------------------------------------
+
+[2026-06-12 19:00:12.997726]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190012.png
+SHA256: aae91a6818f1c91e66dcd7a564ec18a5f6e70184718b453ece5298cbd5fd8b2d
+--------------------------------------------------
+
+[2026-06-12 19:00:13.352656]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190013.png
+SHA256: 8ccbaaf06404148d312c84461d4bbc3802777b6beb254e83f414ed52c5a16083
+--------------------------------------------------
+
+[2026-06-12 19:00:13.832550]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190013.png
+SHA256: aae91a6818f1c91e66dcd7a564ec18a5f6e70184718b453ece5298cbd5fd8b2d
+--------------------------------------------------
+
+[2026-06-12 19:00:14.490608]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190013.png
+SHA256: 635a85b2d79c2cd36709fc50213ccbd0ca6bfe5d6eebd27a4f1dc91540a3b665
+--------------------------------------------------
+
+[2026-06-12 19:00:14.835191]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190014.png
+SHA256: 9eb8e76f3da004ab5bea3cb8250daee3c8804298a74859dae98824c6b8c17851
+--------------------------------------------------
+
+[2026-06-12 19:00:15.298512]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190014.png
+SHA256: b6a3c736ceaeda3779313b2ee03cc54ecfd0c2658ce32f9a2e3a34461a3e88b3
+--------------------------------------------------
+
+[2026-06-12 19:00:15.794961]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190015.png
+SHA256: 1e3d71d92a9c527ee5d91e8bae60ee1b94d7d67fe10f14e814b2a764841002f1
+--------------------------------------------------
+
+[2026-06-12 19:00:16.095197]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190015.png
+SHA256: d7a283de6520270c014567f27f0bbf2ff4a19946cebe9a039a9e70371af6dad7
+--------------------------------------------------
+
+[2026-06-12 19:00:16.494966]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190016.png
+SHA256: d7a283de6520270c014567f27f0bbf2ff4a19946cebe9a039a9e70371af6dad7
+--------------------------------------------------
+
+[2026-06-12 19:00:16.807710]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190016.png
+SHA256: c83e08cd0f47ff0929d942ced7e00a7dbfe3f98a47362396b53f560b7d8b11fb
+--------------------------------------------------
+
+[2026-06-12 19:00:17.271151]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190016.png
+SHA256: d7a283de6520270c014567f27f0bbf2ff4a19946cebe9a039a9e70371af6dad7
+--------------------------------------------------
+
+[2026-06-12 19:00:17.788144]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190017.png
+SHA256: d7a283de6520270c014567f27f0bbf2ff4a19946cebe9a039a9e70371af6dad7
+--------------------------------------------------
+
+[2026-06-12 19:00:18.116725]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190017.png
+SHA256: c83e08cd0f47ff0929d942ced7e00a7dbfe3f98a47362396b53f560b7d8b11fb
+--------------------------------------------------
+
+[2026-06-12 19:00:18.490788]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190018.png
+SHA256: d7a283de6520270c014567f27f0bbf2ff4a19946cebe9a039a9e70371af6dad7
+--------------------------------------------------
+
+[2026-06-12 19:00:18.787889]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190018.png
+SHA256: c83e08cd0f47ff0929d942ced7e00a7dbfe3f98a47362396b53f560b7d8b11fb
+--------------------------------------------------
+
+[2026-06-12 19:00:19.191660]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190018.png
+SHA256: c83e08cd0f47ff0929d942ced7e00a7dbfe3f98a47362396b53f560b7d8b11fb
+--------------------------------------------------
+
+[2026-06-12 19:00:19.842919]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190019.png
+SHA256: d7a283de6520270c014567f27f0bbf2ff4a19946cebe9a039a9e70371af6dad7
+--------------------------------------------------
+
+[2026-06-12 19:00:20.222136]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190019.png
+SHA256: c83e08cd0f47ff0929d942ced7e00a7dbfe3f98a47362396b53f560b7d8b11fb
+--------------------------------------------------
+
+[2026-06-12 19:00:20.521867]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190020.png
+SHA256: d7a283de6520270c014567f27f0bbf2ff4a19946cebe9a039a9e70371af6dad7
+--------------------------------------------------
+
+[2026-06-12 19:00:20.912760]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190020.png
+SHA256: d7a283de6520270c014567f27f0bbf2ff4a19946cebe9a039a9e70371af6dad7
+--------------------------------------------------
+
+[2026-06-12 19:00:21.296275]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190020.png
+SHA256: 23831ec24ca24586de8ddd414818997fbf91a736bfb991e6fca601c1d58ed800
+--------------------------------------------------
+
+[2026-06-12 19:00:21.559305]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190021.png
+SHA256: 295cd74f04dd8e1a1c55fd9eddd8c8cd2157f617960e6641b140fe625296e01b
+--------------------------------------------------
+
+[2026-06-12 19:00:22.108866]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190021.png
+SHA256: 295cd74f04dd8e1a1c55fd9eddd8c8cd2157f617960e6641b140fe625296e01b
+--------------------------------------------------
+
+[2026-06-12 19:00:22.651396]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190022.png
+SHA256: c04a308a0b5a6c41c5c97690ec13c55f8107d9e75c972590c6e126e3e5595059
+--------------------------------------------------
+
+[2026-06-12 19:00:23.049565]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190022.png
+SHA256: deb2db42a17d7fb30f909cb3cd9cb8065c260a9eac4631362038cb63762e0859
+--------------------------------------------------
+
+[2026-06-12 19:00:23.368340]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190023.png
+SHA256: 0e262b27a56a9b7ac37ddd65badc7d813640f0f16b92dc60605e32ea36e1bf26
+--------------------------------------------------
+
+[2026-06-12 19:00:23.831966]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190023.png
+SHA256: 6613d74045130ab5da3811c79dc841f04ffba293183e472674a30d4e566f5297
+--------------------------------------------------
+
+[2026-06-12 19:00:24.297569]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190023.png
+SHA256: b49452a0e91d71090dea9608b617d8f819cfd3562047cd2bf902e1ef5d1cb289
+--------------------------------------------------
+
+[2026-06-12 19:00:24.899871]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190024.png
+SHA256: 3d49fa9fcc856e696d519199846d2421948a85a17cfcc0accfa26e034f2d81b9
+--------------------------------------------------
+
+[2026-06-12 19:00:25.401230]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190025.png
+SHA256: f88ab0b71577c7a384e8072e2fb0a4a0ed12f1a51393c93b84400481f4654b7a
+--------------------------------------------------
+
+[2026-06-12 19:00:25.943715]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190025.png
+SHA256: 6b46098f6ab36bf40338685b3a35fd953e4ec8ab754800cfbac7bbb6c33dea95
+--------------------------------------------------
+
+[2026-06-12 19:00:26.442298]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190026.png
+SHA256: 24a5750770ad7956ac81f6153ee5ef98add4e4f2a9a55e051ade17520e6cf8cc
+--------------------------------------------------
+
+[2026-06-12 19:00:26.874324]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190026.png
+SHA256: 2ed0a56c0c493af2c5244fa9e9b3fb3d05cf62fc3417652f50d838bc20845c17
+--------------------------------------------------
+
+[2026-06-12 19:00:27.349805]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190026.png
+SHA256: 31b16f05fc15e0c097fc3c0a20ac2aca2266c27e8d8abccf7e3c0b90d0620bf1
+--------------------------------------------------
+
+[2026-06-12 19:00:27.894487]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190027.png
+SHA256: 8def1335089e3a5939634925507db98ef13a53010beb4904b70d3cc94b078433
+--------------------------------------------------
+
+[2026-06-12 19:00:28.420496]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190027.png
+SHA256: d903b8910ae047da2557d7143a585a514951ff84ed662c8d8a3616fb9b35017f
+--------------------------------------------------
+
+[2026-06-12 19:00:28.881211]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190028.png
+SHA256: 4c4a4013fc6c4ba539dc6b9b55839d66bb390f4156b6111738b6202912345abc
+--------------------------------------------------
+
+[2026-06-12 19:00:29.328437]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190028.png
+SHA256: e6361f540388a936e34b6d2c8f184fbed033756542f3e39d1e78c45ba232c6ab
+--------------------------------------------------
+
+[2026-06-12 19:00:29.796458]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190029.png
+SHA256: 2049eceb7801ed950f36fb1eeecae29f71f3a1045709bdb9943417f242efee9a
+--------------------------------------------------
+
+[2026-06-12 19:00:30.254686]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190029.png
+SHA256: aa23324573d6569ca3d8e2e62ff4e5f9d064c1e058eabea7907972865201f75e
+--------------------------------------------------
+
+[2026-06-12 19:00:30.745118]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190030.png
+SHA256: 8f28092cbed7ccf5ff2416f05fad59e32825403603fbda133f4dbf478790f242
+--------------------------------------------------
+
+[2026-06-12 19:00:31.266477]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190030.png
+SHA256: 9afb229406c8ffbf89a1e71686d2780d70a871aa57676cea9eeb8611c169aa6b
+--------------------------------------------------
+
+[2026-06-12 19:00:31.891618]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190031.png
+SHA256: c86b23428248bfc8eddc0185492295aeaedfc52a12421153fcd0d14045cb59cf
+--------------------------------------------------
+
+[2026-06-12 19:00:32.485961]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190032.png
+SHA256: 5368f89118022be42c038872ae7b4d64a191e73b7d724c80f7432d10be928a9c
+--------------------------------------------------
+
+[2026-06-12 19:00:32.991233]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190032.png
+SHA256: 1a2204463de2e19394f1d872f7315d6e3ee9557f4ccced3ac2827d4d268bb90a
+--------------------------------------------------
+
+[2026-06-12 19:00:33.614321]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190033.png
+SHA256: 250c282d1a1f1f33e201cf9a9a56cfa803f030e279ad8dd2abd52433f7f00e00
+--------------------------------------------------
+
+[2026-06-12 19:00:34.057827]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190033.png
+SHA256: b927f38f4aafd9a121179bf4338a5db34c290c738129711279938ef8daa2bb08
+--------------------------------------------------
+
+[2026-06-12 19:00:34.528293]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190034.png
+SHA256: fe6de8227a5bd2ea704435ea8a4fa38d968b67b20985cc10270cbdb2adaf1522
+--------------------------------------------------
+
+[2026-06-12 19:00:34.971243]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190034.png
+SHA256: 2da0d5dddc4c8a6824758ddec56b185a4041ab26b2a3abde8f13d873a85faf9b
+--------------------------------------------------
+
+[2026-06-12 19:00:35.424662]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190035.png
+SHA256: c350bcb14a706fdffb20a691f1aefae12b73dd489e9b2117eac0f1112d1c23dd
+--------------------------------------------------
+
+[2026-06-12 19:00:35.895473]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190035.png
+SHA256: d7ebea5420168590da5cd96f365a7db5f81bdc22bee5319b748ccd35a6df6263
+--------------------------------------------------
+
+[2026-06-12 19:00:36.355191]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190035.png
+SHA256: 5d3110e3c354fdc233bb122d011d94f52699df75b94dc602d7938a57f08db23f
+--------------------------------------------------
+
+[2026-06-12 19:00:36.794902]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190036.png
+SHA256: eb7f2407adf3b7e127e3d36539f66689225087b5232a8a3262522ce32b859661
+--------------------------------------------------
+
+[2026-06-12 19:00:37.275340]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190036.png
+SHA256: eff77d6c11e40cc268b595753592d02feedb78b7cc5d48d481674e9b49318e3d
+--------------------------------------------------
+
+[2026-06-12 19:00:37.784265]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190037.png
+SHA256: f924c3ea6eaaf969a3c2ab301395a1f5686797fa762747eb41b69e34941b5f3b
+--------------------------------------------------
+
+[2026-06-12 19:00:38.636348]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190037.png
+SHA256: 5a4e6ced1392d3efbaa808fd01cd02a7d8a0dcd50c14a3218478b74b83836d40
+--------------------------------------------------
+
+[2026-06-12 19:00:39.229417]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190038.png
+SHA256: 73c3a4e4b07df9fe7099da2b86e7c42e318d46a02342d2015f40c186932b0fbf
+--------------------------------------------------
+
+[2026-06-12 19:00:39.711805]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190039.png
+SHA256: 361e447685a88ad3eba62c27cf8b5155722aaf43e104523181aabc7fac6d9a8b
+--------------------------------------------------
+
+[2026-06-12 19:00:40.190098]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190039.png
+SHA256: d5658e817fc220fa9cae2a585d8c5f2b33e791b98058100fc5d4b2cfcda35810
+--------------------------------------------------
+
+[2026-06-12 19:00:40.736610]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190040.png
+SHA256: f9630aab0dd3f0da9b80b2b30aa4b28261792e17108edafac344a414fc1181a4
+--------------------------------------------------
+
+[2026-06-12 19:00:41.313199]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190040.png
+SHA256: 80b3b98ec0b8f6d41cdc69ae4066d611af23b8fb2a2bd5e63636024df7e5cf10
+--------------------------------------------------
+
+[2026-06-12 19:00:41.952609]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190041.png
+SHA256: 9db279f96253105f79e9cd944647b06b205c9c3488318de7db093847169e5f3c
+--------------------------------------------------
+
+[2026-06-12 19:00:42.556040]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190042.png
+SHA256: b35209c49b77acac9e5fe7e4db6461a04f2a2fe16446e1403545064ca5a5c915
+--------------------------------------------------
+
+[2026-06-12 19:00:42.993655]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190042.png
+SHA256: 79cfa9f028caf82667b0a58709c72037d5079b77d9c313824078b7059b30c3ee
+--------------------------------------------------
+
+[2026-06-12 19:00:43.570088]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190043.png
+SHA256: 1a4b1c48f46153ece00f0a5537267fb464f3d350b58f10c713cea9e3ca6c11f6
+--------------------------------------------------
+
+[2026-06-12 19:00:44.053993]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190043.png
+SHA256: 3ff642caea6d63e1b0a545b0a9f18930f45d91867bd45e8fc03527d5c1312075
+--------------------------------------------------
+
+[2026-06-12 19:00:44.627935]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190044.png
+SHA256: 98aeaacd4086fc313b59ac4dc4fefa79679b6e6571dda18dc54bc877645ba251
+--------------------------------------------------
+
+[2026-06-12 19:00:45.224716]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190044.png
+SHA256: 676ea76c6314de605d29aee12b9855c3446a0b868bbd9095b5cf1c7cfd201baf
+--------------------------------------------------
+
+[2026-06-12 19:00:45.762980]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190045.png
+SHA256: a4d02a2f589ed1058ca709e33b23d51206af2f42eaa9117c99e07f85eeb54ae5
+--------------------------------------------------
+
+[2026-06-12 19:00:46.107147]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190045.png
+SHA256: 61a3d0159108dfa5a2f4cf63389686307647260054b3fd5c47a0e59d1cd73aad
+--------------------------------------------------
+
+[2026-06-12 19:00:46.570719]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190046.png
+SHA256: 01efcc8a58a9021cdabee360067c4fcea9aebd095550b13a2cd18940d22dc495
+--------------------------------------------------
+
+[2026-06-12 19:00:47.075555]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190046.png
+SHA256: b7dbc9ae959fe8bd01b1622558f81d2649c05f5dbb541af7b17f326a06d9a90c
+--------------------------------------------------
+
+[2026-06-12 19:00:47.663039]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190047.png
+SHA256: 819eff7f92c28d7771d36aaed9c1a87f4bcea6eedd96da4e54b495cdfc085abd
+--------------------------------------------------
+
+[2026-06-12 19:00:48.190153]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190047.png
+SHA256: ca912af3b6dab051a1b21bac8a03e6ab032a456373a0a20b4a3d6d7102d3bdca
+--------------------------------------------------
+
+[2026-06-12 19:00:48.750138]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190048.png
+SHA256: aa3d0f5b661671de931fa5ee5b16ccf86ff192770f5ca03000bae83832c22474
+--------------------------------------------------
+
+[2026-06-12 19:00:49.276602]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190048.png
+SHA256: 478e589d7fbddb3c351c15dd7d892d281e90a8473bda4c714b216f52a813dd73
+--------------------------------------------------
+
+[2026-06-12 19:00:49.716152]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190049.png
+SHA256: f18dcbe084e5ce22f97bb13e501a93448da3ad108efde0d13daedd153e8d0c93
+--------------------------------------------------
+
+[2026-06-12 19:00:50.090530]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190049.png
+SHA256: f18dcbe084e5ce22f97bb13e501a93448da3ad108efde0d13daedd153e8d0c93
+--------------------------------------------------
+
+[2026-06-12 19:00:50.511238]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190050.png
+SHA256: d8c50775bed445b2cc1771b4c245cfdf380ba12393978babfa812418e5906887
+--------------------------------------------------
+
+[2026-06-12 19:00:50.806315]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190050.png
+SHA256: d4487f4c62c00c5e6cf7d5239308e15488ee9718595843332d35d0978ef4199a
+--------------------------------------------------
+
+[2026-06-12 19:00:51.190151]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190050.png
+SHA256: d4487f4c62c00c5e6cf7d5239308e15488ee9718595843332d35d0978ef4199a
+--------------------------------------------------
+
+[2026-06-12 19:00:51.490769]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190051.png
+SHA256: 417514bf0e769a8af3ea5a4525fbde74611c0f87d38fd6b8dc14c484c26a3c68
+--------------------------------------------------
+
+[2026-06-12 19:00:51.969929]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190051.png
+SHA256: 417514bf0e769a8af3ea5a4525fbde74611c0f87d38fd6b8dc14c484c26a3c68
+--------------------------------------------------
+
+[2026-06-12 19:00:52.372222]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190052.png
+SHA256: e34e45fe2647ff3a676f08993a376e4475a184ecdda540e064adcaa316dc4756
+--------------------------------------------------
+
+[2026-06-12 19:00:52.683901]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190052.png
+SHA256: c5b38923774644e73ad500958d745ef6846eb69cf85dd7146d18e3dac9738573
+--------------------------------------------------
+
+[2026-06-12 19:00:53.271972]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190052.png
+SHA256: c5b38923774644e73ad500958d745ef6846eb69cf85dd7146d18e3dac9738573
+--------------------------------------------------
+
+[2026-06-12 19:00:53.570778]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190053.png
+SHA256: e34e45fe2647ff3a676f08993a376e4475a184ecdda540e064adcaa316dc4756
+--------------------------------------------------
+
+[2026-06-12 19:00:53.942455]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190053.png
+SHA256: e34e45fe2647ff3a676f08993a376e4475a184ecdda540e064adcaa316dc4756
+--------------------------------------------------
+
+[2026-06-12 19:00:54.339568]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190053.png
+SHA256: e34e45fe2647ff3a676f08993a376e4475a184ecdda540e064adcaa316dc4756
+--------------------------------------------------
+
+[2026-06-12 19:00:54.660754]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190054.png
+SHA256: 06bedb1605955acc699f0e5aa547b3cb9991e5eba8dc0438259560d731253fd6
+--------------------------------------------------
+
+[2026-06-12 19:00:55.023155]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190054.png
+SHA256: 06bedb1605955acc699f0e5aa547b3cb9991e5eba8dc0438259560d731253fd6
+--------------------------------------------------
+
+[2026-06-12 19:00:55.359454]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190055.png
+SHA256: 06bedb1605955acc699f0e5aa547b3cb9991e5eba8dc0438259560d731253fd6
+--------------------------------------------------
+
+[2026-06-12 19:00:55.771156]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190055.png
+SHA256: 3b60b9bdb0efadce494f1c63306f9c0ea89b97a14fe6f1259a7acfa50c659cc0
+--------------------------------------------------
+
+[2026-06-12 19:00:56.301160]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190055.png
+SHA256: a58a0e6ac803ae8244f30bfa9558620edc2665bd34d6376897dce698f8ccd5ce
+--------------------------------------------------
+
+[2026-06-12 19:00:56.691667]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190056.png
+SHA256: 763c6ef6d1cd8a38af95b3d89a25284102dcbf22d94c75763849e234fa5925e7
+--------------------------------------------------
+
+[2026-06-12 19:00:57.127862]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190056.png
+SHA256: 5b6d5c7623e2cd9527e3d61bb8a99dbfea5994e13a7f2d96a3c982f661610d40
+--------------------------------------------------
+
+[2026-06-12 19:00:57.678472]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190057.png
+SHA256: f8862c5e71bbdb07d965ffe21fa4b17639bf32bce80487498fa7df7a660ad436
+--------------------------------------------------
+
+[2026-06-12 19:00:58.012661]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190057.png
+SHA256: 5b6d5c7623e2cd9527e3d61bb8a99dbfea5994e13a7f2d96a3c982f661610d40
+--------------------------------------------------
+
+[2026-06-12 19:00:58.500261]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190058.png
+SHA256: 8e37fc386baa52caf50a57248b61adc78b4bd7be6563228cc416e2cef8faae23
+--------------------------------------------------
+
+[2026-06-12 19:00:58.878788]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190058.png
+SHA256: d5f7bd1c9f857e6a069fb106f6103c7ec4992c568b835f863649d2779a1f6e1f
+--------------------------------------------------
+
+[2026-06-12 19:00:59.265027]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190058.png
+SHA256: ac8646ee3c81954d86995d21676550b2874484bbacb5e2b0eba9375a1dbfa9d9
+--------------------------------------------------
+
+[2026-06-12 19:00:59.723679]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190059.png
+SHA256: 34cb01025a79334875f113624aeaae01eca9b2e41d18f15b749aa48ef04161ed
+--------------------------------------------------
+
+[2026-06-12 19:01:00.161238]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190059.png
+SHA256: ac8646ee3c81954d86995d21676550b2874484bbacb5e2b0eba9375a1dbfa9d9
+--------------------------------------------------
+
+[2026-06-12 19:01:00.542502]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190100.png
+SHA256: eb8f5b7c601ac7322dd8508ca270f819415cb65c5ab31e30be0d4eb0d298ad02
+--------------------------------------------------
+
+[2026-06-12 19:01:00.926912]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190100.png
+SHA256: 11c5f507dfd540358b7687a65fbbccdd227e905153014ddf8e1e6362012d1c3f
+--------------------------------------------------
+
+[2026-06-12 19:01:01.324117]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190100.png
+SHA256: 2aaa2dddb7fe1889527dacee531c87c5ae4ffdc2f0c48de67129d1a6c468a1d3
+--------------------------------------------------
+
+[2026-06-12 19:01:01.596249]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190101.png
+SHA256: 2aaa2dddb7fe1889527dacee531c87c5ae4ffdc2f0c48de67129d1a6c468a1d3
+--------------------------------------------------
+
+[2026-06-12 19:01:02.001434]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190101.png
+SHA256: 2aaa2dddb7fe1889527dacee531c87c5ae4ffdc2f0c48de67129d1a6c468a1d3
+--------------------------------------------------
+
+[2026-06-12 19:01:02.295105]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190102.png
+SHA256: 2aaa2dddb7fe1889527dacee531c87c5ae4ffdc2f0c48de67129d1a6c468a1d3
+--------------------------------------------------
+
+[2026-06-12 19:01:02.782896]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190102.png
+SHA256: 2aaa2dddb7fe1889527dacee531c87c5ae4ffdc2f0c48de67129d1a6c468a1d3
+--------------------------------------------------
+
+[2026-06-12 19:01:03.128591]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190102.png
+SHA256: 2aaa2dddb7fe1889527dacee531c87c5ae4ffdc2f0c48de67129d1a6c468a1d3
+--------------------------------------------------
+
+[2026-06-12 19:01:03.512590]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190103.png
+SHA256: 0e9c58a2d904d4932d43a7e4ecb345b850a261fab5e39ce963e9aa88245db200
+--------------------------------------------------
+
+[2026-06-12 19:01:03.845393]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190103.png
+SHA256: 442b52d4294a1137fbe4182e1debc2c68af2e1407bd9eb15d9fadd3fce572a04
+--------------------------------------------------
+
+[2026-06-12 19:01:04.266180]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190103.png
+SHA256: d60eaa964a0d05541ba475924bf058eb15604e8e67d5f338c1203910abd09fef
+--------------------------------------------------
+
+[2026-06-12 19:01:04.522725]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190104.png
+SHA256: 5cc3f6afaf1dd38f9cb47135b630b797b0608b10abd0c0c84bc98dd2a20a7aa5
+--------------------------------------------------
+
+[2026-06-12 19:01:04.792991]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190104.png
+SHA256: 5cc3f6afaf1dd38f9cb47135b630b797b0608b10abd0c0c84bc98dd2a20a7aa5
+--------------------------------------------------
+
+[2026-06-12 19:01:05.125119]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190104.png
+SHA256: 5cc3f6afaf1dd38f9cb47135b630b797b0608b10abd0c0c84bc98dd2a20a7aa5
+--------------------------------------------------
+
+[2026-06-12 19:01:05.422552]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190105.png
+SHA256: f318d2c4280c8daf52acc4cf3a882586a7456698c51a9ac7127decc2fc3d3edb
+--------------------------------------------------
+
+[2026-06-12 19:01:05.872510]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190105.png
+SHA256: 45e7a2fd610f24ac8826becbe8acdcd54ce0c1f54102c969f140d694cbbd9ef4
+--------------------------------------------------
+
+[2026-06-12 19:01:06.160305]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190105.png
+SHA256: 4ebebfd32c0e23eddd66e9a7fac13984a1fca892fccd5f780201e7936b0f4524
+--------------------------------------------------
+
+[2026-06-12 19:01:06.556872]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190106.png
+SHA256: 4ebebfd32c0e23eddd66e9a7fac13984a1fca892fccd5f780201e7936b0f4524
+--------------------------------------------------
+
+[2026-06-12 19:01:06.847789]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190106.png
+SHA256: e27c70f549a7ad0ad8e420e116a0762c340e68eb014fc21eb84e02aad98cf246
+--------------------------------------------------
+
+[2026-06-12 19:01:07.156992]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190106.png
+SHA256: e27c70f549a7ad0ad8e420e116a0762c340e68eb014fc21eb84e02aad98cf246
+--------------------------------------------------
+
+[2026-06-12 19:01:07.468596]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190107.png
+SHA256: e27c70f549a7ad0ad8e420e116a0762c340e68eb014fc21eb84e02aad98cf246
+--------------------------------------------------
+
+[2026-06-12 19:01:07.808686]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190107.png
+SHA256: e27c70f549a7ad0ad8e420e116a0762c340e68eb014fc21eb84e02aad98cf246
+--------------------------------------------------
+
+[2026-06-12 19:01:08.079700]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190107.png
+SHA256: e27c70f549a7ad0ad8e420e116a0762c340e68eb014fc21eb84e02aad98cf246
+--------------------------------------------------
+
+[2026-06-12 19:01:08.344590]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190108.png
+SHA256: e27c70f549a7ad0ad8e420e116a0762c340e68eb014fc21eb84e02aad98cf246
+--------------------------------------------------
+
+[2026-06-12 19:01:08.779632]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190108.png
+SHA256: e27c70f549a7ad0ad8e420e116a0762c340e68eb014fc21eb84e02aad98cf246
+--------------------------------------------------
+
+[2026-06-12 19:01:09.193029]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190108.png
+SHA256: e27c70f549a7ad0ad8e420e116a0762c340e68eb014fc21eb84e02aad98cf246
+--------------------------------------------------
+
+[2026-06-12 19:01:09.456543]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190109.png
+SHA256: e27c70f549a7ad0ad8e420e116a0762c340e68eb014fc21eb84e02aad98cf246
+--------------------------------------------------
+
+[2026-06-12 19:01:09.782670]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190109.png
+SHA256: e27c70f549a7ad0ad8e420e116a0762c340e68eb014fc21eb84e02aad98cf246
+--------------------------------------------------
+
+[2026-06-12 19:01:10.086329]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190109.png
+SHA256: e27c70f549a7ad0ad8e420e116a0762c340e68eb014fc21eb84e02aad98cf246
+--------------------------------------------------
+
+[2026-06-12 19:01:10.483369]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190110.png
+SHA256: 5931aead9d2ae13f713b5f34b7d6240e4ba59bf1ff035189b16dd54a8e76c9f5
+--------------------------------------------------
+
+[2026-06-12 19:01:10.782987]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190110.png
+SHA256: d29d7b0a72db2291628c467c15ea5011fe25c125fa9c6b441106ccc755d3e2f7
+--------------------------------------------------
+
+[2026-06-12 19:01:11.129244]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190110.png
+SHA256: 1775fbb091f8e63e15b67b58dab9fc17a8dd2846a5b9c53fb527721a36be633b
+--------------------------------------------------
+
+[2026-06-12 19:01:11.481102]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190111.png
+SHA256: 1775fbb091f8e63e15b67b58dab9fc17a8dd2846a5b9c53fb527721a36be633b
+--------------------------------------------------
+
+[2026-06-12 19:01:11.881570]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190111.png
+SHA256: 1775fbb091f8e63e15b67b58dab9fc17a8dd2846a5b9c53fb527721a36be633b
+--------------------------------------------------
+
+[2026-06-12 19:01:12.270079]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190111.png
+SHA256: 1775fbb091f8e63e15b67b58dab9fc17a8dd2846a5b9c53fb527721a36be633b
+--------------------------------------------------
+
+[2026-06-12 19:01:12.555936]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190112.png
+SHA256: 1775fbb091f8e63e15b67b58dab9fc17a8dd2846a5b9c53fb527721a36be633b
+--------------------------------------------------
+
+[2026-06-12 19:01:12.949266]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190112.png
+SHA256: ec33a314250d3d17a612926c18357d6be44019c9b6a532652f3dcc651c82c9c6
+--------------------------------------------------
+
+[2026-06-12 19:01:13.307822]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190113.png
+SHA256: ec33a314250d3d17a612926c18357d6be44019c9b6a532652f3dcc651c82c9c6
+--------------------------------------------------
+
+[2026-06-12 19:01:13.660948]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190113.png
+SHA256: ec33a314250d3d17a612926c18357d6be44019c9b6a532652f3dcc651c82c9c6
+--------------------------------------------------
+
+[2026-06-12 19:01:14.022492]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190113.png
+SHA256: 285e8863ee24f905b309d2ce0599159d4d8542d080d099c99ee153c878a6454b
+--------------------------------------------------
+
+[2026-06-12 19:01:14.405461]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190114.png
+SHA256: c2d9039ca31fd39098de4c78c5a9ed4286793b0f6d6fa1e3ee461df87d6d2872
+--------------------------------------------------
+
+[2026-06-12 19:01:14.720553]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190114.png
+SHA256: 80277e6414deb270ceaf83e77a413c388dbff57699f2c8d632c870941ccdcc77
+--------------------------------------------------
+
+[2026-06-12 19:01:15.009629]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190114.png
+SHA256: 11f093580b13854ce7f85c61884b01d38857809b2cea6c79977c3ebc56ba30bc
+--------------------------------------------------
+
+[2026-06-12 19:01:15.339450]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190115.png
+SHA256: 11f093580b13854ce7f85c61884b01d38857809b2cea6c79977c3ebc56ba30bc
+--------------------------------------------------
+
+[2026-06-12 19:01:15.593912]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190115.png
+SHA256: 80277e6414deb270ceaf83e77a413c388dbff57699f2c8d632c870941ccdcc77
+--------------------------------------------------
+
+[2026-06-12 19:01:16.078039]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190115.png
+SHA256: d8db86b65f4b961010b49121c91f4f57a1aef8d1ad343b845b9eb1ef9f012ee1
+--------------------------------------------------
+
+[2026-06-12 19:01:16.570237]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190116.png
+SHA256: 11111c2bcf67ec22f71e0840a3c80b287dfa9fb0f4218ce7600f0c5ae17872db
+--------------------------------------------------
+
+[2026-06-12 19:01:17.115898]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190116.png
+SHA256: db957ac4cd69bfb3e5e316bb5d1330d002127d2c0314919e434b5ee6f86dd6dd
+--------------------------------------------------
+
+[2026-06-12 19:01:17.580888]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190117.png
+SHA256: 1696ed02177f34ff65056f7495afe5de25bba9d282b44b85c23f5372ea0ae104
+--------------------------------------------------
+
+[2026-06-12 19:01:17.998984]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190117.png
+SHA256: d76488b4ab7a47e74b092eb80da9cda3b2e8b0630ed5dbbc30121428974aa0fe
+--------------------------------------------------
+
+[2026-06-12 19:01:18.419042]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190118.png
+SHA256: 6da745b3b2773c2f8c1a120f474443165a36850b5beb0ba4449a59836299254f
+--------------------------------------------------
+
+[2026-06-12 19:01:18.701909]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190118.png
+SHA256: 9c4a6b80ba68814f9902c401db492478229e10b35402845fb951740610a15f73
+--------------------------------------------------
+
+[2026-06-12 19:01:19.331600]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190118.png
+SHA256: 9c4a6b80ba68814f9902c401db492478229e10b35402845fb951740610a15f73
+--------------------------------------------------
+
+[2026-06-12 19:01:19.909910]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190119.png
+SHA256: a0fe850abb610b17fe987941ba94b2c56c66c2f9f6995c5a6c921b982916be71
+--------------------------------------------------
+
+[2026-06-12 19:01:20.369073]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190120.png
+SHA256: 30253fcf8340736aeb5c8175250c4e660ceb888d74bc417fd72657d4f47578aa
+--------------------------------------------------
+
+[2026-06-12 19:01:20.970193]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190120.png
+SHA256: 30253fcf8340736aeb5c8175250c4e660ceb888d74bc417fd72657d4f47578aa
+--------------------------------------------------
+
+[2026-06-12 19:01:21.384848]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190121.png
+SHA256: 30253fcf8340736aeb5c8175250c4e660ceb888d74bc417fd72657d4f47578aa
+--------------------------------------------------
+
+[2026-06-12 19:01:21.750796]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190121.png
+SHA256: 30253fcf8340736aeb5c8175250c4e660ceb888d74bc417fd72657d4f47578aa
+--------------------------------------------------
+
+[2026-06-12 19:01:22.085795]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190121.png
+SHA256: a0fe850abb610b17fe987941ba94b2c56c66c2f9f6995c5a6c921b982916be71
+--------------------------------------------------
+
+[2026-06-12 19:01:22.481810]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190122.png
+SHA256: 30253fcf8340736aeb5c8175250c4e660ceb888d74bc417fd72657d4f47578aa
+--------------------------------------------------
+
+[2026-06-12 19:01:22.890026]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190122.png
+SHA256: 30253fcf8340736aeb5c8175250c4e660ceb888d74bc417fd72657d4f47578aa
+--------------------------------------------------
+
+[2026-06-12 19:01:23.184072]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190122.png
+SHA256: a0fe850abb610b17fe987941ba94b2c56c66c2f9f6995c5a6c921b982916be71
+--------------------------------------------------
+
+[2026-06-12 19:01:23.886358]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190123.png
+SHA256: 30253fcf8340736aeb5c8175250c4e660ceb888d74bc417fd72657d4f47578aa
+--------------------------------------------------
+
+[2026-06-12 19:01:24.305668]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190124.png
+SHA256: a0fe850abb610b17fe987941ba94b2c56c66c2f9f6995c5a6c921b982916be71
+--------------------------------------------------
+
+[2026-06-12 19:01:25.048164]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190124.png
+SHA256: 30253fcf8340736aeb5c8175250c4e660ceb888d74bc417fd72657d4f47578aa
+--------------------------------------------------
+
+[2026-06-12 19:01:25.548306]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190125.png
+SHA256: 07296f897cb9a1472ddb2eb88ad7f03940aa9377579ac197d15146ee6d3edbea
+--------------------------------------------------
+
+[2026-06-12 19:01:26.044008]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190125.png
+SHA256: 37c7371915b5d66b5ab446a3b4e2c5e642480731eec39d5546949ecb61c9ac99
+--------------------------------------------------
+
+[2026-06-12 19:01:26.700536]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190126.png
+SHA256: 07296f897cb9a1472ddb2eb88ad7f03940aa9377579ac197d15146ee6d3edbea
+--------------------------------------------------
+
+[2026-06-12 19:01:27.298125]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190126.png
+SHA256: 37c7371915b5d66b5ab446a3b4e2c5e642480731eec39d5546949ecb61c9ac99
+--------------------------------------------------
+
+[2026-06-12 19:01:27.892667]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190127.png
+SHA256: 37c7371915b5d66b5ab446a3b4e2c5e642480731eec39d5546949ecb61c9ac99
+--------------------------------------------------
+
+[2026-06-12 19:01:28.533049]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190128.png
+SHA256: 07296f897cb9a1472ddb2eb88ad7f03940aa9377579ac197d15146ee6d3edbea
+--------------------------------------------------
+
+[2026-06-12 19:01:29.294788]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190128.png
+SHA256: 37c7371915b5d66b5ab446a3b4e2c5e642480731eec39d5546949ecb61c9ac99
+--------------------------------------------------
+
+[2026-06-12 19:01:29.958759]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190129.png
+SHA256: 07296f897cb9a1472ddb2eb88ad7f03940aa9377579ac197d15146ee6d3edbea
+--------------------------------------------------
+
+[2026-06-12 19:01:30.348707]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190130.png
+SHA256: c0ff234a1a732f3634774d3f3363b5946d3b8ce8a225f458390c2536447ef6bd
+--------------------------------------------------
+
+[2026-06-12 19:01:30.723454]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190130.png
+SHA256: 55f641d95f514ef93bea29c402bba8d788d06246f95b2a85d7b0db238ba36e95
+--------------------------------------------------
+
+[2026-06-12 19:01:31.285608]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190130.png
+SHA256: 0dbaf952fcbe46686449fe9386e4506c09a1b6a0693b02b03131abfdf52c60a3
+--------------------------------------------------
+
+[2026-06-12 19:01:31.977932]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190131.png
+SHA256: 4cc4971c01ca7fbf88b367f1ad0944d4e46faeaf9a0f330eec83d02981712d87
+--------------------------------------------------
+
+[2026-06-12 19:01:32.452881]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190132.png
+SHA256: a55caa703eef35fa488db9b580235e00a0d9124498ae27e8429c13ff7f69dec5
+--------------------------------------------------
+
+[2026-06-12 19:01:33.093734]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190132.png
+SHA256: 483c0d557cb859bef528cf79c0ab27b1d912b68cd1394587a5fc806d0a57cbba
+--------------------------------------------------
+
+[2026-06-12 19:01:33.726045]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190133.png
+SHA256: 3557b591e487cf2149558520e46d6438a857cdf76ec9ca8d86e38e3ef6b92530
+--------------------------------------------------
+
+[2026-06-12 19:01:34.368813]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190133.png
+SHA256: d73a059bf9ff5ce3174fd9f5b66de8f7b865a8089f9830102a2ffde1c534c9c3
+--------------------------------------------------
+
+[2026-06-12 19:01:35.011104]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190134.png
+SHA256: 7e845e6417739b2ae2c0e73567995f4063c93da33ce1f8f22553aabfd6ada5e0
+--------------------------------------------------
+
+[2026-06-12 19:01:35.617493]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190135.png
+SHA256: 5fcb32fe2101b4c04523629a7d48f877bad615b6b976d3a86561d8e7b6fb188c
+--------------------------------------------------
+
+[2026-06-12 19:01:36.091923]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190135.png
+SHA256: 9bf39ad5d1a1eb539f604448b51e12dd41affccbad3bee4b1ab227e4c9c2b785
+--------------------------------------------------
+
+[2026-06-12 19:01:36.787608]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190136.png
+SHA256: 9bf39ad5d1a1eb539f604448b51e12dd41affccbad3bee4b1ab227e4c9c2b785
+--------------------------------------------------
+
+[2026-06-12 19:01:37.352719]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190136.png
+SHA256: 604c1d6d29d559488d16ac0d56fd4ce0522084ec8871240a835a21cc32a87999
+--------------------------------------------------
+
+[2026-06-12 19:01:38.104015]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190137.png
+SHA256: 188373c38c9824cbcb86e857dfbf9c5e53444909602ae1c3b845e79388975bda
+--------------------------------------------------
+
+[2026-06-12 19:01:38.875983]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190138.png
+SHA256: 313469d022f89bf703d9983800b75d394d2169183e2cbd505a97a87a40f4570b
+--------------------------------------------------
+
+[2026-06-12 19:01:39.382379]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190139.png
+SHA256: 382c1978f561b4b087c5b9ad6d1fdc843c5e783db0d6d35d28341711d298dd31
+--------------------------------------------------
+
+[2026-06-12 19:01:39.914226]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190139.png
+SHA256: 382c1978f561b4b087c5b9ad6d1fdc843c5e783db0d6d35d28341711d298dd31
+--------------------------------------------------
+
+[2026-06-12 19:01:40.435542]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190139.png
+SHA256: 382c1978f561b4b087c5b9ad6d1fdc843c5e783db0d6d35d28341711d298dd31
+--------------------------------------------------
+
+[2026-06-12 19:01:40.748413]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190140.png
+SHA256: 382c1978f561b4b087c5b9ad6d1fdc843c5e783db0d6d35d28341711d298dd31
+--------------------------------------------------
+
+[2026-06-12 19:01:41.165654]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190140.png
+SHA256: 382c1978f561b4b087c5b9ad6d1fdc843c5e783db0d6d35d28341711d298dd31
+--------------------------------------------------
+
+[2026-06-12 19:01:41.454760]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190141.png
+SHA256: 382c1978f561b4b087c5b9ad6d1fdc843c5e783db0d6d35d28341711d298dd31
+--------------------------------------------------
+
+[2026-06-12 19:01:41.830088]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190141.png
+SHA256: 382c1978f561b4b087c5b9ad6d1fdc843c5e783db0d6d35d28341711d298dd31
+--------------------------------------------------
+
+[2026-06-12 19:01:42.446446]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190141.png
+SHA256: 382c1978f561b4b087c5b9ad6d1fdc843c5e783db0d6d35d28341711d298dd31
+--------------------------------------------------
+
+[2026-06-12 19:01:42.877951]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190142.png
+SHA256: 382c1978f561b4b087c5b9ad6d1fdc843c5e783db0d6d35d28341711d298dd31
+--------------------------------------------------
+
+[2026-06-12 19:01:43.368649]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190143.png
+SHA256: 382c1978f561b4b087c5b9ad6d1fdc843c5e783db0d6d35d28341711d298dd31
+--------------------------------------------------
+
+[2026-06-12 19:01:43.886459]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190143.png
+SHA256: 382c1978f561b4b087c5b9ad6d1fdc843c5e783db0d6d35d28341711d298dd31
+--------------------------------------------------
+
+[2026-06-12 19:01:44.240859]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190143.png
+SHA256: 382c1978f561b4b087c5b9ad6d1fdc843c5e783db0d6d35d28341711d298dd31
+--------------------------------------------------
+
+[2026-06-12 19:01:44.546884]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190144.png
+SHA256: 04ef9ed5f209e7381a2bf40269b21e286b0d847de02514e15d9ad0fdf1794059
+--------------------------------------------------
+
+[2026-06-12 19:01:44.872267]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190144.png
+SHA256: 8dc85a54885a4594f9593056f1c850d04f7d6a630b9aee387a9b06178408970a
+--------------------------------------------------
+
+[2026-06-12 19:01:45.184414]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190144.png
+SHA256: 44fcfb7440706ac595eeb96ea6104ffa296c0c425497d635545b85f552afd8c4
+--------------------------------------------------
+
+[2026-06-12 19:01:45.578987]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190145.png
+SHA256: 98c2704880e4619bd4a3c3e2ebd84621fa5edbd5d65e2373f3c7e5fd72d1b5e6
+--------------------------------------------------
+
+[2026-06-12 19:01:45.985387]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190145.png
+SHA256: 497658f2d2dc77b9369e2717ce0861a3888269e026dcb8f9587ba9138b031395
+--------------------------------------------------
+
+[2026-06-12 19:01:46.276559]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190146.png
+SHA256: aaabfcb538f5edc5b77104e96771796fe6ac32bded3925f0ed0611e2a9ec1959
+--------------------------------------------------
+
+[2026-06-12 19:01:46.592910]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190146.png
+SHA256: 13118f9b8b8c1ac02ea5d37ff1320fb6e7ebf6c28d978af66fb00f6f4605e229
+--------------------------------------------------
+
+[2026-06-12 19:01:46.965132]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190146.png
+SHA256: 1f6e4bb468fa8eda163076c6e4bdeab8bb1f6ba43690b978972ac8341ed65e44
+--------------------------------------------------
+
+[2026-06-12 19:01:47.185908]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190147.png
+SHA256: b64d59a6aaaa4f6933e77ed1a8459bd473071f27cba9df49fbfd8c0706fd7beb
+--------------------------------------------------
+
+[2026-06-12 19:01:47.578422]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190147.png
+SHA256: 52b9ad021d915d0cc3fcd96a38dc64f731abf14ca64e1dac57671c1f71c872ff
+--------------------------------------------------
+
+[2026-06-12 19:01:47.898955]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190147.png
+SHA256: ac691a0490bb7c604f83428a556be7990246ec2c961e9e56e3b4738c76718886
+--------------------------------------------------
+
+[2026-06-12 19:01:48.219621]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190147.png
+SHA256: 1f6e4bb468fa8eda163076c6e4bdeab8bb1f6ba43690b978972ac8341ed65e44
+--------------------------------------------------
+
+[2026-06-12 19:01:48.590577]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190148.png
+SHA256: b64d59a6aaaa4f6933e77ed1a8459bd473071f27cba9df49fbfd8c0706fd7beb
+--------------------------------------------------
+
+[2026-06-12 19:01:48.870969]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190148.png
+SHA256: 6cbb34a1ad13970fc11b98f6cde24bea82fd0796aafd195ed348096c2ac8470e
+--------------------------------------------------
+
+[2026-06-12 19:01:49.272710]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190148.png
+SHA256: 6cbb34a1ad13970fc11b98f6cde24bea82fd0796aafd195ed348096c2ac8470e
+--------------------------------------------------
+
+[2026-06-12 19:01:49.631483]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190149.png
+SHA256: 35975cb55308bbf536ad64848cb4d4b7678275718c61a217c3040aa0c14c5f01
+--------------------------------------------------
+
+[2026-06-12 19:01:50.007069]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190149.png
+SHA256: 35975cb55308bbf536ad64848cb4d4b7678275718c61a217c3040aa0c14c5f01
+--------------------------------------------------
+
+[2026-06-12 19:01:50.266780]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190150.png
+SHA256: 35975cb55308bbf536ad64848cb4d4b7678275718c61a217c3040aa0c14c5f01
+--------------------------------------------------
+
+[2026-06-12 19:01:50.686415]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190150.png
+SHA256: cb049ac187bcf91d1de000e35182054013e33fe0b17ab2945ea77b6c43029611
+--------------------------------------------------
+
+[2026-06-12 19:01:51.129751]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190150.png
+SHA256: 1d8789337030ed948579b1ec5ae2a622e83ff12b2488f281428f57486712b092
+--------------------------------------------------
+
+[2026-06-12 19:01:51.425548]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190151.png
+SHA256: 3228743b6fd7ac9a53a6bd4c8942db51e2c8f761d442b8e850a7f28a0989adfa
+--------------------------------------------------
+
+[2026-06-12 19:01:51.881901]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190151.png
+SHA256: 620f639ecd69360817077d9a816f5a0b9839bba4ffdb481923ab5a4ee607fca1
+--------------------------------------------------
+
+[2026-06-12 19:01:52.171442]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190151.png
+SHA256: cf50ad4080b657c0f7f469eda2666775718c61173740bc539e467263c3edc30a
+--------------------------------------------------
+
+[2026-06-12 19:01:52.575533]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190152.png
+SHA256: d9f69e6cdb42524e6bf33ff6096f5842682d15caa490fdf80453a7b4d81a3d6d
+--------------------------------------------------
+
+[2026-06-12 19:01:53.239453]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190152.png
+SHA256: 8717dbe5e6e01903ba468ced611f6cbb4ad87190e4bacb2599d509dacf4bf60c
+--------------------------------------------------
+
+[2026-06-12 19:01:53.821106]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190153.png
+SHA256: a412df81157ef8232dd031663849599a38203733f00a46c30fd5d7f4d8cd3287
+--------------------------------------------------
+
+[2026-06-12 19:01:54.247668]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190153.png
+SHA256: e7244729b39cf848743bc3362b3bc02325562834ccba8e2015ec06284a0fca80
+--------------------------------------------------
+
+[2026-06-12 19:01:54.594474]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190154.png
+SHA256: 1941ad2361721775063d5eed7e3d976b4acda3883ba0764e3e64cfaa7f3055e8
+--------------------------------------------------
+
+[2026-06-12 19:01:55.091586]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190154.png
+SHA256: fbd43f6c3b2a4216f81aabad9042cabeee28f964d966aacfd843c304ae6bf9ab
+--------------------------------------------------
+
+[2026-06-12 19:01:55.810612]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190155.png
+SHA256: badeacf85dc91df67d31bc94e7bc81d989c59691d5cb50c82541b7ff9178367a
+--------------------------------------------------
+
+[2026-06-12 19:01:56.343763]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190155.png
+SHA256: 71af1d09ab230533ee5e91f1857c7f4136581d22720a2214a5540a0ecd2f88e2
+--------------------------------------------------
+
+[2026-06-12 19:01:56.800412]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190156.png
+SHA256: 9e030f876126c3935a0eb4279fa3fdf81948709d9f9dbcb2171e3fbd3ed8d606
+--------------------------------------------------
+
+[2026-06-12 19:01:57.272030]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190156.png
+SHA256: fa6f988e3d7468ad28275edec5923e8dd136780b02c5c537f8fb6e5d691efff4
+--------------------------------------------------
+
+[2026-06-12 19:01:57.676114]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190157.png
+SHA256: 3e35537e713920a2033975004a3d641a47c5cb8eaf504afadfe2950f7d8855ba
+--------------------------------------------------
+
+[2026-06-12 19:01:58.073177]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190157.png
+SHA256: f97b35e40d53cecd95e479f21d6043cbece5e75ecf262cd1012c1a821c1485f9
+--------------------------------------------------
+
+[2026-06-12 19:01:58.655601]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190158.png
+SHA256: 3e35537e713920a2033975004a3d641a47c5cb8eaf504afadfe2950f7d8855ba
+--------------------------------------------------
+
+[2026-06-12 19:01:59.245671]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190158.png
+SHA256: f97b35e40d53cecd95e479f21d6043cbece5e75ecf262cd1012c1a821c1485f9
+--------------------------------------------------
+
+[2026-06-12 19:01:59.762073]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190159.png
+SHA256: 3e35537e713920a2033975004a3d641a47c5cb8eaf504afadfe2950f7d8855ba
+--------------------------------------------------
+
+[2026-06-12 19:02:00.255343]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190159.png
+SHA256: f97b35e40d53cecd95e479f21d6043cbece5e75ecf262cd1012c1a821c1485f9
+--------------------------------------------------
+
+[2026-06-12 19:02:00.863000]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190200.png
+SHA256: 3e35537e713920a2033975004a3d641a47c5cb8eaf504afadfe2950f7d8855ba
+--------------------------------------------------
+
+[2026-06-12 19:02:01.312909]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190201.png
+SHA256: 09cbdef4306ca1e222b9b72b285b8ab604518a33f93f845db0b3847df99cd44d
+--------------------------------------------------
+
+[2026-06-12 19:02:01.772393]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190201.png
+SHA256: fad290ffc1b39426d4e9aa56352679612ff3a086337babbe61820c0b1af4ee9e
+--------------------------------------------------
+
+[2026-06-12 19:02:02.143084]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190201.png
+SHA256: 1f46fb1901c4789fe07299a4b2ae0d309ff7f56ccb8e3691b1b9c770a8a1f9fe
+--------------------------------------------------
+
+[2026-06-12 19:02:02.681806]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190202.png
+SHA256: 5ac8fcb34c9c691b34ec40d4aa5441c26277e7b5b839feb345c6ca004d6cc919
+--------------------------------------------------
+
+[2026-06-12 19:02:03.026391]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190202.png
+SHA256: b6f9385f1475498c0f5fb0e9102d697094f254086b58bc933f43df0a7bfd56b3
+--------------------------------------------------
+
+[2026-06-12 19:02:03.542834]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190203.png
+SHA256: 2ef1d07decece80f55063c3e85964f7fd120f08d9f3a1f4dab902795e2e196f4
+--------------------------------------------------
+
+[2026-06-12 19:02:03.915590]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190203.png
+SHA256: 973dd9ce1697b86a8bdc215ffceac7b1b8900b5aa27353fe4f8b833d7e901e20
+--------------------------------------------------
+
+[2026-06-12 19:02:04.530245]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190204.png
+SHA256: 12484756d43bedd39b3efb8b1183d16973f5c11995e4a5b3494a128e18517b0f
+--------------------------------------------------
+
+[2026-06-12 19:02:05.204685]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190204.png
+SHA256: 5827b05460d59b885ce847198e5729272fb0e8e27ba28a2ec1fa1b6c16108342
+--------------------------------------------------
+
+[2026-06-12 19:02:05.775022]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190205.png
+SHA256: 5827b05460d59b885ce847198e5729272fb0e8e27ba28a2ec1fa1b6c16108342
+--------------------------------------------------
+
+[2026-06-12 19:02:06.411576]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190205.png
+SHA256: 12484756d43bedd39b3efb8b1183d16973f5c11995e4a5b3494a128e18517b0f
+--------------------------------------------------
+
+[2026-06-12 19:02:07.004547]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190206.png
+SHA256: 5827b05460d59b885ce847198e5729272fb0e8e27ba28a2ec1fa1b6c16108342
+--------------------------------------------------
+
+[2026-06-12 19:02:07.833483]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190207.png
+SHA256: 12484756d43bedd39b3efb8b1183d16973f5c11995e4a5b3494a128e18517b0f
+--------------------------------------------------
+
+[2026-06-12 19:02:08.270304]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190208.png
+SHA256: 12484756d43bedd39b3efb8b1183d16973f5c11995e4a5b3494a128e18517b0f
+--------------------------------------------------
+
+[2026-06-12 19:02:08.974644]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190208.png
+SHA256: 12484756d43bedd39b3efb8b1183d16973f5c11995e4a5b3494a128e18517b0f
+--------------------------------------------------
+
+[2026-06-12 19:02:09.466186]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190209.png
+SHA256: 12484756d43bedd39b3efb8b1183d16973f5c11995e4a5b3494a128e18517b0f
+--------------------------------------------------
+
+[2026-06-12 19:02:10.026891]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190209.png
+SHA256: 89d6f14b939eded241947c7e20ad93a85408234b13a320b1bc7bd7051a3b7c13
+--------------------------------------------------
+
+[2026-06-12 19:02:10.526496]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190210.png
+SHA256: 63f08aecd0e434b2a6fc6fb94a98881d9eda1177fe66233edb28e9e683a25d1e
+--------------------------------------------------
+
+[2026-06-12 19:02:11.037567]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190210.png
+SHA256: 63f08aecd0e434b2a6fc6fb94a98881d9eda1177fe66233edb28e9e683a25d1e
+--------------------------------------------------
+
+[2026-06-12 19:02:11.627521]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190211.png
+SHA256: e7b9927288ea57ae6821501222736411f98207d8690557ceef6a76d52ad2e0a3
+--------------------------------------------------
+
+[2026-06-12 19:02:12.252970]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190211.png
+SHA256: e7b9927288ea57ae6821501222736411f98207d8690557ceef6a76d52ad2e0a3
+--------------------------------------------------
+
+[2026-06-12 19:02:12.884945]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190212.png
+SHA256: 63f08aecd0e434b2a6fc6fb94a98881d9eda1177fe66233edb28e9e683a25d1e
+--------------------------------------------------
+
+[2026-06-12 19:02:13.373365]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190212.png
+SHA256: b23e9707eb81b2b76ccbdec24816c1b4c416e8e77cc0b338bbebc15163805691
+--------------------------------------------------
+
+[2026-06-12 19:02:13.729710]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190213.png
+SHA256: 424bbebd3c8b6cd44e3108639d530101b5e16209ed01fd81bcb6df94dd1a0cf3
+--------------------------------------------------
+
+[2026-06-12 19:02:14.052154]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190213.png
+SHA256: 4b128c3d99bf7e213a6e57601ae4a19e6037dbc0d6c7749b49d27a1c8834a520
+--------------------------------------------------
+
+[2026-06-12 19:02:14.389587]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190214.png
+SHA256: 04f37c93836e352ffb6ea3ca5c6e353dae213295f5e3e5b9bd5110912ef6c675
+--------------------------------------------------
+
+[2026-06-12 19:02:14.797173]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190214.png
+SHA256: 3870f14e477b3c084c7eaaff65764274a26f39f4d2fb98a1ecdbbd7cbe38dd0f
+--------------------------------------------------
+
+[2026-06-12 19:02:15.272872]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190214.png
+SHA256: 00adf2c98e9a3cbe573eb33096d131b8d330663d885726340d356576652853b1
+--------------------------------------------------
+
+[2026-06-12 19:02:15.659742]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190215.png
+SHA256: 5360e773c101eb8809536c8cc00fed45399738a4bbaa62e0ef936e8b17ba92be
+--------------------------------------------------
+
+[2026-06-12 19:02:16.134071]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190215.png
+SHA256: 3a9e78f3b840155c153def8a713ec53742f962e36e4a389ebb456b3d547aa871
+--------------------------------------------------
+
+[2026-06-12 19:02:16.476911]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190216.png
+SHA256: a496dcdb56dd179abb01693f0fa7febd7f1a4f8158047467ea5d6a9ce65fb440
+--------------------------------------------------
+
+[2026-06-12 19:02:16.953508]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190216.png
+SHA256: 669664107fb5865628d429ac7b26fa25450f493ca0f742beaeac7e9a85119eda
+--------------------------------------------------
+
+[2026-06-12 19:02:17.456794]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190217.png
+SHA256: cd698fe13d8fa760d9cba1442fc38e22202b66b06d8f7af9ebe95719878ed84d
+--------------------------------------------------
+
+[2026-06-12 19:02:18.051201]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190217.png
+SHA256: 27f8d1ea67e7e9623a8788f470cffb91b4fa5f52c8ae0b947bbadbd36fc3f262
+--------------------------------------------------
+
+[2026-06-12 19:02:18.530529]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190218.png
+SHA256: 73ab1e12dabfbca52a9ea778a6f5eef19034697ba45d4f6c32d00fafd70f2173
+--------------------------------------------------
+
+[2026-06-12 19:02:18.995804]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190218.png
+SHA256: 2a1d3f15678c3179a221658123bfaadab33be68f738e8741f9342a92cb3907f7
+--------------------------------------------------
+
+[2026-06-12 19:02:19.595213]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190219.png
+SHA256: a4045ea1f84e2f0fb17a2b382bb020b2cffa7fde3a3db295320882f7d337f949
+--------------------------------------------------
+
+[2026-06-12 19:02:20.021257]
+User: admin
+Evidence: evidence\admin_No_Face_Detected_20260612_190219.png
+SHA256: 69c47711e3eec27f814a7e30f23c2eddcd164094c2c125fb8bf982da614f75b6
+--------------------------------------------------
+
+[2026-06-13 19:46:49.531024]
+User: subi
+Evidence: evidence\subi_No_Face_Detected_20260613_194649.png
+SHA256: 58c81de106426660c1d51a4d37e1408960b8152c080fc022e4dbd022ba5a6aa9
+--------------------------------------------------
+
+[2026-06-13 19:46:52.797912]
+User: subi
+Evidence: evidence\subi_No_Face_Detected_20260613_194652.png
+SHA256: 030a9e26a081d80551d729c06b773aa8825a369b57df301156d273a7273ff5e0
+--------------------------------------------------
+
+[2026-06-13 19:46:56.042518]
+User: subi
+Evidence: evidence\subi_No_Face_Detected_20260613_194655.png
+SHA256: ef6f1851665e65fe09cc1e4aa29fc15f2338f0231325f79fb765ba80b856eeeb
+--------------------------------------------------
+
+[2026-06-13 19:46:59.377673]
+User: subi
+Evidence: evidence\subi_No_Face_Detected_20260613_194659.png
+SHA256: 6588bd3ef400cf7d5df27b4652674448c7808e6c99c99ffc0df5720d987c9097
+--------------------------------------------------
+
+[2026-06-13 19:47:02.699064]
+User: subi
+Evidence: evidence\subi_No_Face_Detected_20260613_194702.png
+SHA256: 6e47656d4cfe7ff4890bb249e1410df247534449100c4e748116c800144a0298
+--------------------------------------------------
+
+[2026-06-13 19:47:06.106548]
+User: subi
+Evidence: evidence\subi_No_Face_Detected_20260613_194705.png
+SHA256: 5510f4c275cfef14d0969f91dd8c33132cff7de9572fff23754769cf3ba49ff7
+--------------------------------------------------
+
+[2026-06-13 19:47:09.746547]
+User: subi
+Evidence: evidence\subi_No_Face_Detected_20260613_194709.png
+SHA256: a2a48c2baf128505390c878ec74a1312289330cd829521dbd467153d7a4d04fc
+--------------------------------------------------
+
+[2026-06-13 19:47:13.416736]
+User: subi
+Evidence: evidence\subi_No_Face_Detected_20260613_194713.png
+SHA256: f7c7cccecf41b779ddd145e23e17014196b1d485874fbe59b2d8bb2aa38e9cad
+--------------------------------------------------
+
+[2026-06-13 19:47:17.144854]
+User: subi
+Evidence: evidence\subi_No_Face_Detected_20260613_194716.png
+SHA256: 081f03b2b78a4aae43f8a6129196b4dd005ba631095c37b53b29178b2f3ae7e8
+--------------------------------------------------
+
+[2026-06-13 19:47:20.674314]
+User: subi
+Evidence: evidence\subi_No_Face_Detected_20260613_194720.png
+SHA256: 2d5422f20da5cd519c72c216868e3e315eef587d2f27d2d67ebd989054f09655
+--------------------------------------------------
+
+[2026-06-13 19:47:24.019910]
+User: subi
+Evidence: evidence\subi_No_Face_Detected_20260613_194723.png
+SHA256: d85fa2d0e6e35330b9c2a08bd36dee31a789c7f298eebda5f4b6515b10880bee
+--------------------------------------------------
+
+[2026-06-13 19:47:27.261097]
+User: subi
+Evidence: evidence\subi_No_Face_Detected_20260613_194727.png
+SHA256: 6531a6e4ac7977b880a6adaaa956e618514ea99e1df0c7cf2ca74123d32ec107
+--------------------------------------------------
+
+[2026-06-13 19:47:30.501288]
+User: subi
+Evidence: evidence\subi_No_Face_Detected_20260613_194730.png
+SHA256: fc974f9ea7d3fb390b69ea58e71f26259a77ad8b487879a14a6ae10e9b6d9634
+--------------------------------------------------
+
+Timestamp : 2026-06-21 19:26:46
+User      : sushila
+Action    : Evidence Captured
+Evidence  : evidence\sushila_No_Face_Detected_20260621_192646.png
+SHA256    : 74eb059c770982da79911f47f04e1aab568605b2e2bbf7dcc400b24ae2168c27
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-21 19:26:57
+User      : sushila
+Action    : Evidence Captured
+Evidence  : evidence\sushila_No_Face_Detected_20260621_192656.png
+SHA256    : d9d73da8a735be0932fce3416cd0cf29c36b176e03f6739c173e1b15b688568d
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-21 19:27:07
+User      : sushila
+Action    : Evidence Captured
+Evidence  : evidence\sushila_No_Face_Detected_20260621_192706.png
+SHA256    : 1f87f5f6f5d94bf64e9464048cd89666e6946a6292d0c2cb305d38b6a7d89094
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-22 20:02:48
+User      : someone
+Action    : Evidence Captured
+Evidence  : evidence\someone\No_Face_Detected_20260622_200248.png
+SHA256    : 1e29a0ac1dba37e943e2f03833d1808488ec01279805dcc2ff5d81b787c27308
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-22 20:02:58
+User      : someone
+Action    : Evidence Captured
+Evidence  : evidence\someone\No_Face_Detected_20260622_200258.png
+SHA256    : 120558eb3606723bf21684506756d03293e30ff0881e4efd26e9d58911f923bb
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-22 20:03:14
+User      : someone
+Action    : Evidence Captured
+Evidence  : evidence\someone\No_Face_Detected_20260622_200314.png
+SHA256    : 2a0ec26ddca316ad4d0b9944b9d8e7acf5b81a0d399955bd346c4c9e90abeb56
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-22 20:30:00
+User      : userrrr
+Action    : Evidence Captured
+Evidence  : evidence\userrrr\No_Face_Detected_20260622_203000.png
+SHA256    : 640309e7339297b4fbb3447547410e051df9310cdf2f183918fbf1b6595f2903
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-22 20:30:11
+User      : userrrr
+Action    : Evidence Captured
+Evidence  : evidence\userrrr\No_Face_Detected_20260622_203010.png
+SHA256    : 8a0d7014824619b565bf376fa6fffe78612e357a3c270c00c26176563d029097
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-22 20:30:21
+User      : userrrr
+Action    : Evidence Captured
+Evidence  : evidence\userrrr\No_Face_Detected_20260622_203020.png
+SHA256    : 25667047ad4e2479b4f8b5c79adadde7fd48ad3ffe9423cab7b0ff322d93d856
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-23 10:38:10
+User      : kkkkkkkkk
+Action    : Evidence Captured
+Evidence  : evidence\kkkkkkkkk\Multiple_Faces_Detected_20260623_103809.png
+SHA256    : a9eb9cca14f7a74a3833f5de38b24b09518401d32b19c2a5a88dcaf22a7e0aa4
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-23 10:38:30
+User      : kkkkkkkkk
+Action    : Evidence Captured
+Evidence  : evidence\kkkkkkkkk\No_Face_Detected_20260623_103829.png
+SHA256    : d74b9594ffcb8e165185024152b4ac503eb435661585fbf23ce548ffcbdcd61e
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-23 10:56:02
+User      : deeeeeeeeee
+Action    : Evidence Captured
+Evidence  : evidence\deeeeeeeeee\No_Face_Detected_20260623_105602.png
+SHA256    : 7a02fb71bf9ed504f2e46cfc44b77f34e788b9bb46ece4511a6e51fc4c5b60e0
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-23 10:56:03
+User      : deeeeeeeeee
+Action    : Evidence Captured
+Evidence  : evidence\deeeeeeeeee\Multiple_Faces_Detected_20260623_105603.png
+SHA256    : a8f5b90961dc229b9581bb1348a32b8bfbf44db3e17043be4fd349fc63ce7355
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-23 10:56:13
+User      : deeeeeeeeee
+Action    : Evidence Captured
+Evidence  : evidence\deeeeeeeeee\Multiple_Faces_Detected_20260623_105613.png
+SHA256    : 49c1eb3089ba958ed1cc34a2a292a6cf5d8e684a620fedff468ca469b8db1360
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-23 10:56:18
+User      : deeeeeeeeee
+Action    : Evidence Captured
+Evidence  : evidence\deeeeeeeeee\No_Face_Detected_20260623_105618.png
+SHA256    : 571852d511296478c574936bfff158f0f471bf56ca1e8f0a08a060a6086192d7
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-23 10:56:32
+User      : deeeeeeeeee
+Action    : Evidence Captured
+Evidence  : evidence\deeeeeeeeee\No_Face_Detected_20260623_105632.png
+SHA256    : bc87501b5b990e4e0ae6360c3698cc33348cf369a1654039ab5e98e14c766632
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:00:32
+User      : sushant
+Action    : Evidence Captured
+Evidence  : evidence\sushant\Multiple_Faces_Detected_20260625_100031.png
+SHA256    : d606c0d0b201da3bb8be5aca148c51a4ec73155d73f0532fe792a56b37c03fcf
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:00:33
+User      : sushant
+Action    : Evidence Captured
+Evidence  : evidence\sushant\No_Face_Detected_20260625_100033.png
+SHA256    : 92039e1b5867b5d346083055d58d061b8a96e7e159c2c0bc21654433ca2106ec
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:00:42
+User      : sushant
+Action    : Evidence Captured
+Evidence  : evidence\sushant\Multiple_Faces_Detected_20260625_100042.png
+SHA256    : 2b7135ae1a7bcab705f3fbf6dd26a8c07716fbeac3186d23efd85d3ab243ce4e
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:00:52
+User      : sushant
+Action    : Evidence Captured
+Evidence  : evidence\sushant\Multiple_Faces_Detected_20260625_100052.png
+SHA256    : 37ef288181b6aa047a4646147ba297ad3b79f7bcdbdd70c61ded223c909bf8c7
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:01:01
+User      : sushant
+Action    : Evidence Captured
+Evidence  : evidence\sushant\No_Face_Detected_20260625_100101.png
+SHA256    : 70aaefb261e061505ab9cad99e594695e49fc00210e3dc435faaead562aac90d
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:01:02
+User      : sushant
+Action    : Evidence Captured
+Evidence  : evidence\sushant\Multiple_Faces_Detected_20260625_100102.png
+SHA256    : 943bf2dd07af03b3da648f3d25273282ca90e079e68dcfa2fee062bdaa2b1cde
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:11:31
+User      : sushant
+Action    : Evidence Captured
+Evidence  : evidence\sushant\Multiple_Faces_Detected_20260625_101131.png
+SHA256    : 1a6026a55bc6cf1c3d1ae1e33484a8e580babd1cd408f537baf3439b24320812
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:11:38
+User      : sushant
+Action    : Evidence Captured
+Evidence  : evidence\sushant\No_Face_Detected_20260625_101138.png
+SHA256    : d8edf48793fbc3827ee5df159bc6d1475d7f577849f93142f58f7d8b72a801b5
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:11:42
+User      : sushant
+Action    : Evidence Captured
+Evidence  : evidence\sushant\Multiple_Faces_Detected_20260625_101142.png
+SHA256    : 6e857e5d9b7a14c6df2176ffaca9e21e459a019a44f1ecde54b522002f99339e
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:14:30
+User      : sushant
+Action    : Evidence Captured
+Evidence  : evidence\sushant\Multiple_Faces_Detected_20260625_101430.png
+SHA256    : 03325e56703fe4d46427f54cc84352e57ffed49c2058c4fa83c148d6dd32c91d
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:21:31
+User      : sushant
+Action    : Evidence Captured
+Evidence  : evidence\sushant\Multiple_Faces_Detected_20260625_102131.png
+SHA256    : 42a0fadb1ead617da6657692211f1786c591be634e92903dab401f879bd77528
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:25:25
+User      : sushant
+Action    : Evidence Captured
+Evidence  : evidence\sushant\No_Face_Detected_20260625_102525.png
+SHA256    : 4d0be66f17a403bf184e98528362dec6eff35ae8aea32fec1f3defa843a47e4e
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:25:26
+User      : sushant
+Action    : Evidence Captured
+Evidence  : evidence\sushant\Multiple_Faces_Detected_20260625_102525.png
+SHA256    : abe7787b8167fa40b48ef16327713ad46cb6236cd1e16557c0c049e1901588b5
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:32:36
+User      : batuli
+Action    : Evidence Captured
+Evidence  : evidence\batuli\Multiple_Faces_Detected_20260625_103235.png
+SHA256    : 318bdb816acc8b61702828ff40af7862b8f41e0a885695a9a2a71677cd0fc48c
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:32:39
+User      : batuli
+Action    : Evidence Captured
+Evidence  : evidence\batuli\No_Face_Detected_20260625_103239.png
+SHA256    : e8223073cbb8222cb985d799bec6c9b8694ab294ae9742f9d996808fa43eac75
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:37:28
+User      : batuli
+Action    : Evidence Captured
+Evidence  : evidence\batuli\No_Face_Detected_20260625_103728.png
+SHA256    : 5190ab15fd32db7823c3d0a365cf26fda437135e81b33dbbb701d343762fa77f
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:37:31
+User      : batuli
+Action    : Evidence Captured
+Evidence  : evidence\batuli\Multiple_Faces_Detected_20260625_103730.png
+SHA256    : dfcafac735625fdfa2c0ec8fc44ecc413661cdd8f7b44c3e9b08f95d8df6b370
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:48:43
+User      : batuli
+Action    : Evidence Captured
+Evidence  : evidence\batuli\Multiple_Faces_Detected_20260625_104843.png
+SHA256    : f7e4bc4b370dd499aa141349224d6b2b5de87a5a366d4b6f7b186255f3e3ef95
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:48:54
+User      : batuli
+Action    : Evidence Captured
+Evidence  : evidence\batuli\Multiple_Faces_Detected_20260625_104854.png
+SHA256    : c8f4deb7aa24eec22dba9ae61cd8c2593a1e02d4f51a82238339f1dcfb9354a9
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-25 10:49:11
+User      : batuli
+Action    : Evidence Captured
+Evidence  : evidence\batuli\Multiple_Faces_Detected_20260625_104911.png
+SHA256    : 2587bf161e4c4a74479b22e99bf4731a7ee44f83a9d22c5727d2ee4a8f9dcfb1
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-26 22:18:17
+User      : batuli
+Action    : Evidence Captured
+Evidence  : evidence\batuli\No_Face_Detected_20260626_221817.png
+SHA256    : 89905adb4702cef49af5d372efa654ee12136251052e3c0b82f63075f9a88b52
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-26 22:32:39
+User      : batuli
+Action    : Evidence Captured
+Evidence  : evidence\batuli\No_Face_Detected_20260626_223239.png
+SHA256    : 79eef340557aa2943704059cad1311726c56be681e6d590c1ca060c95a9835d8
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-27 11:19:04
+User      : batuli
+Action    : Evidence Captured
+Evidence  : evidence\batuli\No_Face_Detected_20260627_111904.png
+SHA256    : 89563eb9ec5b17097b7eca06074ca1c0ed48808f07858b626850a73cfcd4a6f0
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-27 11:19:07
+User      : batuli
+Action    : Evidence Captured
+Evidence  : evidence\batuli\Multiple_Faces_Detected_20260627_111907.png
+SHA256    : 7f1aeb617851bcaf3a67e936378e973f70c4ae693c08f0f05276cccd2da65173
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-27 11:19:20
+User      : batuli
+Action    : Evidence Captured
+Evidence  : evidence\batuli\Multiple_Faces_Detected_20260627_111919.png
+SHA256    : 8a040a4d6f6cdf93f4eaf72d5ac72deba13d07f81996dde938405f5283fc2072
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-27 12:30:37
+User      : somebody
+Action    : Evidence Captured
+Evidence  : evidence\somebody\Multiple_Faces_Detected_20260627_123037.png
+SHA256    : 1b37b08fc5f6580d4b9491a446a113c9685a5d63f3dcc4ceafd78e555d9b148f
+----------------------------------------------------------------------
+
+Timestamp : 2026-06-27 13:28:46
+User      : batuli
+Action    : Evidence Captured
+Evidence  : evidence\batuli\No_Face_Detected_20260627_132845.png
+SHA256    : e511d7fbb670d59deacb84b4dd6d1de2066d3e050b61693ff1393db7181b6d24
+----------------------------------------------------------------------
